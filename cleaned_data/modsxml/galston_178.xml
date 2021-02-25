@@ -23,6 +23,7 @@
             <placeTerm valueURI="http://id.loc.gov/authorities/names/n79034972">Berlin (Germany)</placeTerm>
         </place>
         <dateIssued>1910</dateIssued>
+        <dateIssued encoding="edtf" keyDate="yes">1910</dateIssued>
     </originInfo>
     <physicalDescription>
         <extent>26 cm high</extent>
