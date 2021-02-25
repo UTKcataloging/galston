@@ -17,6 +17,13 @@
                 valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm>
         </role>
     </name>
+    <name>
+        <namePart>Ebert, K.</namePart>
+        <role>
+            <roleTerm authority="marcrelator"
+                valueURI="http://id.loc.gov/vocabulary/relators/bdd">Binding designer</roleTerm>
+        </role>
+    </name>
     <originInfo>
         <publisher>Verlag Bruno Cassirer</publisher>
         <place>
@@ -27,7 +34,8 @@
     </originInfo>
     <physicalDescription>
         <extent>26 cm high</extent>
-        <extent>498 pages, image of book's spine included</extent>
+        <extent>498 pages, spine of book</extent>
+        <form authority="aat" valueURI="http://vocab.getty.edu/aat/300028051">books</form>
     </physicalDescription>
     <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85088762">
         <topic>Music</topic>
