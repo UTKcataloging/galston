@@ -4,11 +4,12 @@
     xmlns:xlink="http://www.w3.org/1999/xlink"
     xmlns:xs="http://www.w3.org/2001/XMLSchema"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+    <identifier>II.B.9</identifier>
     <titleInfo>
         <title>Studienbuch</title>
     </titleInfo>
-    <abstract></abstract>
-    <tableOfContents>Bach -- Beethoven -- Chopin -- Liszt -- Brahms -- Anhang -- Register</tableOfContents>
+    <abstract>Detailed commentary on the performance of selected piano works by Bach, Beethoven, Chopin, Liszt and Brahms. This copy includes handwritten notes charting out various concerts that Galston performed as part of his cycle of 40 historical recitals in Germany between 1919 and 1920.</abstract>
+    <tableOfContents>Vorwort -- Bach -- Beethoven -- Chopin -- Liszt -- Brahms -- Anhang -- Register</tableOfContents>
     <name authority="naf" valueURI="http://id.loc.gov/authorities/names/n79011997">
         <namePart>Galston, Gottfried, 1879-1950</namePart>
         <role>
@@ -17,14 +18,21 @@
         </role>
     </name>
     <originInfo>
+        <publisher>Verlag Bruno Cassirer</publisher>
+        <place>
+            <placeTerm valueURI="http://id.loc.gov/authorities/names/n79034972">Berlin (Germany)</placeTerm>
+        </place>
         <dateIssued>1910</dateIssued>
     </originInfo>
     <physicalDescription>
-        <extent>26 cm</extent>
-        <extent>221 pages</extent>
+        <extent>26 cm high</extent>
+        <extent>498 pages, image of book's spine included</extent>
     </physicalDescription>
     <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85088762">
-        <topic></topic>
+        <topic>Music</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85101782">
+        <topic>Piano music</topic>
     </subject>
     <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79021425">
         <name>
@@ -51,5 +59,28 @@
             <namePart>Brahms, Johannes, 1833-1897</namePart>
         </name>
     </subject>
+    <language>
+        <languageTerm type="text" authority="iso639-2b">German</languageTerm>
+    </language>
+    <typeOfResource>notated music</typeOfResource>
+    <typeOfResource>text</typeOfResource>
     <classification authority="lcc">MT220 G27</classification>
+    <relatedItem displayLabel="Project" type="host">
+        <titleInfo>
+            <title>Galston Studienbuch</title>
+        </titleInfo>
+    </relatedItem>
+    <relatedItem displayLabel="Collection" type="host">
+        <titleInfo>
+            <title>Gottfried Galston Music Collection and The Galston-Busoni Archive</title>
+        </titleInfo>
+        <identifier>MS-1072</identifier>
+    </relatedItem>
+    <location>
+        <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+    </location>
+    <recordInfo>
+        <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+    </recordInfo>
+    <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
 </mods>
