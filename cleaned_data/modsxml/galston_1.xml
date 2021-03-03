@@ -4,6 +4,7 @@
     xmlns:xlink="http://www.w3.org/1999/xlink"
     xmlns:xs="http://www.w3.org/2001/XMLSchema"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+    <identifier type="pid">galston_1</identifier>
     <identifier>II.D.1</identifier>
     <titleInfo>
         <title>Programme zum Zyklus van vierzig Konzerten</title>
