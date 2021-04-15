@@ -50,7 +50,7 @@
     
     <xsl:template match="mods">
         
-        <xsl:variable name="file-name" select="identifier[@type='catalog']"/>
+        <xsl:variable name="file-name" select="identifier[@type='pid']"/>
         
         <xsl:result-document href="{concat('output/',$file-name,'.xml')}">
             
