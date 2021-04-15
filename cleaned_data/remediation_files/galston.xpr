@@ -6,5 +6,6 @@
     </meta>
     <projectTree name="galston.xpr">
         <folder path="."/>
+        <file name="output"/>
     </projectTree>
 </project>
