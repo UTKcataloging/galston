@@ -31,6 +31,9 @@
         <dateIssued>October 12, 1919-February 20, 1921</dateIssued>
         <dateIssued point="start" encoding="edtf">1919-10-12</dateIssued>
         <dateIssued point="end" encoding="edtf">1921-02-20</dateIssued>
+        <place>
+            <placeTerm valueURI="http://sws.geonames.org/2867714">Munich</placeTerm>
+        </place>
     </originInfo>
     <physicalDescription>
         <extent>176 pages</extent>
@@ -341,5 +344,5 @@
     <recordInfo>
         <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
     </recordInfo>
-    <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/mark/1.0/">Public Domain Mark 1.0</accessCondition>
 </mods>

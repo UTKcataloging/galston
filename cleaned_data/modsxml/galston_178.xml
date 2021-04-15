@@ -28,7 +28,7 @@
     <originInfo>
         <publisher>Verlag Bruno Cassirer</publisher>
         <place>
-            <placeTerm valueURI="http://id.loc.gov/authorities/names/n79034972">Berlin (Germany)</placeTerm>
+            <placeTerm valueURI="http://sws.geonames.org/2950159">Berlin</placeTerm>
         </place>
         <dateIssued>1910</dateIssued>
         <dateIssued encoding="edtf" keyDate="yes">1910</dateIssued>
@@ -92,5 +92,5 @@
     <recordInfo>
         <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
     </recordInfo>
-    <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/mark/1.0/">Public Domain Mark 1.0</accessCondition>
 </mods>
