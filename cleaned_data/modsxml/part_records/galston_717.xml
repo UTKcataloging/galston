@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="catalog">II.C.11</identifier>
+   <identifier type="pid">galston_717</identifier>
+   <titleInfo supplied="yes">
+      <title>Verso, photograph of Sandra Droucker Galston, Gottfried Galston, Ferruccio Busoni, and Gerda Busoni, 1913</title>
+   </titleInfo>
+   <abstract>The reverse side of the photograph includes the inscription "L to R: Sandra Droucker Galston, Gottfried Galston, Ferruccio Busoni, Gerda Busoni." Also present in the top-right-hand corner is an identifier from the catalog "The Gottfried Galston Music Collection and the Galston-Busoni Archive" by Pauline Shaw Bayne.</abstract>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+   </physicalDescription>
+   <originInfo>
+      <place>
+         <placeTerm valueURI="http://sws.geonames.org/2017370">Russia</placeTerm>
+      </place>
+      <dateCreated>1913</dateCreated>
+      <dateCreated encoding="edtf">1913</dateCreated>
+   </originInfo>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n79011997">
+      <name>
+         <namePart>Galston, Gottfried, 1879-1950</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/no2009163749">
+      <name>
+         <namePart>Droucker, Sandra, 1876-1944</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n79124601">
+      <name>
+         <namePart>Busoni, Ferruccio, 1866-1924</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/no96036698">
+      <name>
+         <namePart>Busoni, Gerda, 1862-1956</namePart>
+      </name>
+   </subject>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/2017370">
+      <geographic>Russia</geographic>
+      <cartographics>
+         <coordinates>60, 100</coordinates>
+      </cartographics>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <language>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+   </language>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Gottfried Galston Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Gottfried Galston Music Collection and The Galston-Busoni Archive</title>
+      </titleInfo>
+      <identifier>MS-1072</identifier>
+   </relatedItem>
+   <location>
+      <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+   </location>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="https://creativecommons.org/publicdomain/mark/1.0/">Public Domain Mark 1.0</accessCondition>
+</mods>

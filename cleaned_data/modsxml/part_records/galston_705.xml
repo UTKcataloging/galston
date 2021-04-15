@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="catalog">II.C.10</identifier>
+   <identifier type="pid">galston_705</identifier>
+   <titleInfo supplied="yes">
+      <title>Verso, photograph of Ferruccio Busoni</title>
+   </titleInfo>
+   <abstract>The blank reverse side of a photograph of Busoni from 1905.</abstract>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+   </physicalDescription>
+   <originInfo>
+      <place>
+         <placeTerm valueURI="http://sws.geonames.org/2950159">Berlin</placeTerm>
+      </place>
+      <dateCreated>1905</dateCreated>
+      <dateCreated encoding="edtf">1905</dateCreated>
+   </originInfo>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/2950159">
+      <geographic>Berlin</geographic>
+      <cartographics>
+         <coordinates>52.52437, 13.41053</coordinates>
+      </cartographics>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <language>
+      <languageTerm authority="iso639-2b" type="text">No linguistic content</languageTerm>
+   </language>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Gottfried Galston Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Gottfried Galston Music Collection and The Galston-Busoni Archive</title>
+      </titleInfo>
+      <identifier>MS-1072</identifier>
+   </relatedItem>
+   <location>
+      <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+   </location>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="https://creativecommons.org/publicdomain/mark/1.0/">Public Domain Mark 1.0</accessCondition>
+</mods>

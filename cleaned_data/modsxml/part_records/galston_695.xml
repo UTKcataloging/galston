@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="catalog">II.C.40</identifier>
+   <identifier type="pid">galston_695</identifier>
+   <titleInfo supplied="yes">
+      <title>Verso, photograph of Gottfried Galston in the Wilcox &amp; White recording studio</title>
+   </titleInfo>
+   <abstract>The reverse side of the photograph of Gottfried Galston in the Wilcox and White recording studio. A handwritten note dates this photograph to 1912, which coincides with Galston’s U.S. tour. It also identifies Meriden, Connecticut as the studio's location.</abstract>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+   </physicalDescription>
+   <originInfo>
+      <place>
+         <placeTerm valueURI="http://sws.geonames.org/4838524">Meriden</placeTerm>
+      </place>
+      <dateCreated>1912</dateCreated>
+      <dateCreated encoding="edtf">1912</dateCreated>
+   </originInfo>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/4838524">
+      <geographic>Meriden</geographic>
+      <cartographics>
+         <coordinates>41.53815, -72.80704</coordinates>
+      </cartographics>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <language>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+   </language>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Gottfried Galston Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Gottfried Galston Music Collection and The Galston-Busoni Archive</title>
+      </titleInfo>
+      <identifier>MS-1072</identifier>
+   </relatedItem>
+   <location>
+      <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+   </location>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+</mods>
