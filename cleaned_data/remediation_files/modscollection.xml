@@ -1,0 +1,1408 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"><mods>
+<identifier type="catalog">II.C.10</identifier>
+<identifier type="pid">galston_678</identifier>
+<titleInfo supplied="yes"><title>Photograph of Ferruccio Busoni</title></titleInfo>
+<abstract>Photograph inscribed to "Dem lieben jungen Ritter, Tonkunst und Freunde Gottfried Galston, [signed] Ferruccio Busoni, 1905."</abstract>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+
+</physicalDescription>
+<name><namePart>Kunstatelier Wertheim</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm></role></name>
+
+
+
+
+<originInfo>
+<place><placeTerm valueURI="http://sws.geonames.org/2950159">Berlin</placeTerm></place>
+<dateCreated>1905</dateCreated><dateCreated encoding="edtf">1905</dateCreated>
+
+</originInfo>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh99001681"><topic>Portraits</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85089027"><topic>Musicians</topic></subject>
+
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79124601"><name><namePart>Busoni, Ferruccio, 1866-1924</namePart></name></subject>
+
+
+
+<subject authority="geonames" valueURI="http://sws.geonames.org/2950159"><geographic>Berlin</geographic><cartographics><coordinates>52.52437, 13.41053</coordinates></cartographics></subject>
+<typeOfResource>still image</typeOfResource>
+
+<language><languageTerm authority="iso639-2b" type="text">German</languageTerm></language>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Gottfried Galston Collection</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Gottfried Galston Music Collection and The Galston-Busoni Archive</title></titleInfo><identifier>MS-1072</identifier></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging>
+<languageTerm type="text" authority="iso639-2b">English</languageTerm>
+</languageOfCataloging></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/mark/1.0/">Public Domain Mark 1.0</accessCondition>
+</mods><mods>
+<identifier type="catalog">II.C.10</identifier>
+<identifier type="pid">galston_705</identifier>
+<titleInfo supplied="yes"><title>Verso, photograph of Ferruccio Busoni</title></titleInfo>
+<abstract>The blank reverse side of a photograph of Busoni from 1905.</abstract>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+
+</physicalDescription>
+
+
+
+
+
+<originInfo>
+<place><placeTerm valueURI="http://sws.geonames.org/2950159">Berlin</placeTerm></place>
+<dateCreated>1905</dateCreated><dateCreated encoding="edtf">1905</dateCreated>
+
+</originInfo>
+
+
+
+
+
+
+
+
+<subject authority="geonames" valueURI="http://sws.geonames.org/2950159"><geographic>Berlin</geographic><cartographics><coordinates>52.52437, 13.41053</coordinates></cartographics></subject>
+<typeOfResource>still image</typeOfResource>
+
+<language><languageTerm authority="iso639-2b" type="text">No linguistic content</languageTerm></language>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Gottfried Galston Collection</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Gottfried Galston Music Collection and The Galston-Busoni Archive</title></titleInfo><identifier>MS-1072</identifier></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging>
+<languageTerm type="text" authority="iso639-2b">English</languageTerm>
+</languageOfCataloging></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/mark/1.0/">Public Domain Mark 1.0</accessCondition>
+</mods><mods>
+<identifier type="catalog">II.C.15</identifier>
+<identifier type="pid">galston_706</identifier>
+<titleInfo supplied="yes"><title>Studio portrait of Sandra Droucker by Eduard Wasow</title></titleInfo>
+<abstract>Photograph of Sandra Droucker, a pianist and Galston's first wife. Galston and Droucker married in 1910 and divorced in 1918. A handwritten note on this photograph dates it to approximately 1918.</abstract>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+
+</physicalDescription>
+<name><namePart>Wasow, Eduard</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm></role></name>
+
+
+
+
+<originInfo>
+<place><placeTerm valueURI="http://sws.geonames.org/2867714">Munich</placeTerm></place>
+
+<dateCreated qualifier="approximate">circa 1918</dateCreated><dateCreated encoding="edtf" qualifier="approximate">circa 1918</dateCreated>
+</originInfo>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh99001681"><topic>Portraits</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85089027"><topic>Musicians</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85147655"><topic>Women musicians</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85147187"><topic>Wives</topic></subject>
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/no2009163749"><name><namePart>Droucker, Sandra, 1876-1944</namePart></name></subject>
+
+
+
+<subject authority="geonames" valueURI="http://sws.geonames.org/2867714"><geographic>Munich</geographic><cartographics><coordinates>48.13743, 11.57549</coordinates></cartographics></subject>
+<typeOfResource>still image</typeOfResource>
+
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Gottfried Galston Collection</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Gottfried Galston Music Collection and The Galston-Busoni Archive</title></titleInfo><identifier>MS-1072</identifier></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging>
+<languageTerm type="text" authority="iso639-2b">English</languageTerm>
+</languageOfCataloging></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/mark/1.0/">Public Domain Mark 1.0</accessCondition>
+</mods><mods>
+<identifier type="catalog">II.C.15</identifier>
+<identifier type="pid">galston_707</identifier>
+<titleInfo supplied="yes"><title>Verso, studio portrait of Sandra Droucker by Eduard Wasow</title></titleInfo>
+<abstract>The reverse side of the photograph includes the identifier from the catalog "The Gottfried Galston Music Collection and the Galston-Busoni Archive" by Pauline Shaw Bayne.</abstract>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+
+</physicalDescription>
+
+
+
+
+
+<originInfo>
+<place><placeTerm valueURI="http://sws.geonames.org/2867714">Munich</placeTerm></place>
+
+<dateCreated qualifier="approximate">circa 1918</dateCreated><dateCreated encoding="edtf" qualifier="approximate">circa 1918</dateCreated>
+</originInfo>
+
+
+
+
+
+
+
+
+<subject authority="geonames" valueURI="http://sws.geonames.org/2867714"><geographic>Munich</geographic><cartographics><coordinates>48.13743, 11.57549</coordinates></cartographics></subject>
+<typeOfResource>still image</typeOfResource>
+
+
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Gottfried Galston Collection</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Gottfried Galston Music Collection and The Galston-Busoni Archive</title></titleInfo><identifier>MS-1072</identifier></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging>
+<languageTerm type="text" authority="iso639-2b">English</languageTerm>
+</languageOfCataloging></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/mark/1.0/">Public Domain Mark 1.0</accessCondition>
+</mods><mods>
+<identifier type="catalog">II.C.18</identifier>
+<identifier type="pid">galston_708</identifier>
+<titleInfo supplied="yes"><title>Group portrait of Gottfried Galston and Mr. Pickman</title></titleInfo>
+<abstract>Photograph taken in Odessa, Ukraine and published by V. Goldstein based in Feodosia. Includes inscription and decorative imprinted floral mat. The inscription in the lower right hand corner states "To an actor of genius, a wonderful man, and a good friend, Gottfried Gallstone from his truly Isay Pikman, February 1, 1912, Feodosia, Crimea."</abstract>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+
+</physicalDescription>
+<name><namePart>V. Goldstein</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm></role></name>
+
+
+
+
+<originInfo>
+<place><placeTerm valueURI="http://sws.geonames.org/698740">Odessa</placeTerm></place>
+<dateCreated>1912</dateCreated><dateCreated encoding="edtf">1912</dateCreated>
+
+</originInfo>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85105203"><topic>Portraits, Group</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85089027"><topic>Musicians</topic></subject>
+
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79011997"><name><namePart>Galston, Gottfried, 1879-1950</namePart></name></subject>
+
+
+
+<subject authority="geonames" valueURI="http://sws.geonames.org/698740"><geographic>Odessa</geographic><cartographics><coordinates>46.48572, 30.74383</coordinates></cartographics></subject>
+<typeOfResource>still image</typeOfResource>
+
+<language><languageTerm authority="iso639-2b" type="text">Russian</languageTerm></language>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Gottfried Galston Collection</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Gottfried Galston Music Collection and The Galston-Busoni Archive</title></titleInfo><identifier>MS-1072</identifier></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging>
+<languageTerm type="text" authority="iso639-2b">English</languageTerm>
+</languageOfCataloging></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+</mods><mods>
+<identifier type="catalog">II.C.18</identifier>
+<identifier type="pid">galston_709</identifier>
+<titleInfo supplied="yes"><title>Verso, group portrait of Gottfried Galston and Mr. Pickman</title></titleInfo>
+<abstract>The reverse of the matted photograph includes the inscription "#28."</abstract>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+
+</physicalDescription>
+
+
+
+
+
+<originInfo>
+<place><placeTerm valueURI="http://sws.geonames.org/698740">Odessa</placeTerm></place>
+<dateCreated>1912</dateCreated><dateCreated encoding="edtf">1912</dateCreated>
+
+</originInfo>
+
+
+
+
+
+
+
+
+<subject authority="geonames" valueURI="http://sws.geonames.org/698740"><geographic>Odessa</geographic><cartographics><coordinates>46.48572, 30.74383</coordinates></cartographics></subject>
+<typeOfResource>still image</typeOfResource>
+
+
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Gottfried Galston Collection</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Gottfried Galston Music Collection and The Galston-Busoni Archive</title></titleInfo><identifier>MS-1072</identifier></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging>
+<languageTerm type="text" authority="iso639-2b">English</languageTerm>
+</languageOfCataloging></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+</mods><mods>
+<identifier type="catalog">II.C.19.i</identifier>
+<identifier type="pid">galston_710</identifier>
+<titleInfo supplied="yes"><title>Photograph of Gottfried Galston at piano</title></titleInfo>
+<abstract>Photograph taken of Galston at approximately age 23 by Elliot &amp; Fry. The date is handwritten on the reverse, "ca. 1902", which coincides with concert tours given by Galston in London.</abstract>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+
+</physicalDescription>
+<name valueURI="http://id.loc.gov/authorities/names/n2005054833" authority="naf"><namePart>Elliott &amp; Fry</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm></role></name>
+
+
+
+
+<originInfo>
+<place><placeTerm valueURI="http://sws.geonames.org/2643743">London</placeTerm></place>
+<dateCreated>circa 1902</dateCreated><dateCreated encoding="edtf"></dateCreated>
+<dateCreated qualifier="approximate">1902</dateCreated>
+</originInfo>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh99001681"><topic>Portraits</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85089027"><topic>Musicians</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85101722"><topic>Piano</topic></subject>
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79011997"><name><namePart>Galston, Gottfried, 1879-1950</namePart></name></subject>
+
+
+
+<subject authority="geonames" valueURI="http://sws.geonames.org/2643743"><geographic>London</geographic><cartographics><coordinates>51.50853, -0.12574</coordinates></cartographics></subject>
+<typeOfResource>still image</typeOfResource>
+
+<language><languageTerm authority="iso639-2b" type="text">No linguistic content</languageTerm></language>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Gottfried Galston Collection</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Gottfried Galston Music Collection and The Galston-Busoni Archive</title></titleInfo><identifier>MS-1072</identifier></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging>
+<languageTerm type="text" authority="iso639-2b">English</languageTerm>
+</languageOfCataloging></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/mark/1.0/">Public Domain Mark 1.0</accessCondition>
+</mods><mods>
+<identifier type="catalog">II.C.19.i</identifier>
+<identifier type="pid">galston_679</identifier>
+<titleInfo supplied="yes"><title>Verso, photograph of Gottfried Galston at piano</title></titleInfo>
+<abstract>The reverse side of the portrait of Galston by Elliot &amp; Fry. The date and identifier from the catalog "The Gottfried Galston Music Collection and the Galston-Busoni Archive" by Pauline Shaw Bayne are handwritten.</abstract>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+
+</physicalDescription>
+
+
+
+
+
+<originInfo>
+<place><placeTerm valueURI="http://sws.geonames.org/2643743">London</placeTerm></place>
+<dateCreated>1902</dateCreated><dateCreated encoding="edtf">1902</dateCreated>
+
+</originInfo>
+
+
+
+
+
+
+
+
+<subject authority="geonames" valueURI="http://sws.geonames.org/2643743"><geographic>London</geographic><cartographics><coordinates>51.50853, -0.12574</coordinates></cartographics></subject>
+<typeOfResource>still image</typeOfResource>
+
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Gottfried Galston Collection</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Gottfried Galston Music Collection and The Galston-Busoni Archive</title></titleInfo><identifier>MS-1072</identifier></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging>
+<languageTerm type="text" authority="iso639-2b">English</languageTerm>
+</languageOfCataloging></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/mark/1.0/">Public Domain Mark 1.0</accessCondition>
+</mods><mods>
+<identifier type="catalog">II.C.19.ii</identifier>
+<identifier type="pid">galston_680</identifier>
+<titleInfo supplied="yes"><title>Studio portrait of Gottfried Galston by Eugene Smith, 1912</title></titleInfo>
+<abstract>Photograph taken in Munich, Germany, with ornamental arched border incorporating the text "Gottfried Galston" and a signature. A handwritten note on the reverse attributes the photograph to Eugene Smith, March 1912 (?). Note that Eugene Smith is also known as Frank Eugene and Frank Eugene Smith.</abstract>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+
+</physicalDescription>
+<name valueURI="http://id.loc.gov/authorities/names/no96010084" authority="naf"><namePart>Eugene, Frank, 1865-1936</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm></role></name>
+
+
+
+
+<originInfo>
+<place><placeTerm valueURI="http://sws.geonames.org/2867714">Munich</placeTerm></place>
+
+<dateCreated qualifier="approximate">circa 1912</dateCreated><dateCreated encoding="edtf" qualifier="approximate">circa 1912</dateCreated>
+</originInfo>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh99001681"><topic>Portraits</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85089027"><topic>Musicians</topic></subject>
+
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79011997"><name><namePart>Galston, Gottfried, 1879-1950</namePart></name></subject>
+
+
+
+<subject authority="geonames" valueURI="http://sws.geonames.org/2867714"><geographic>Munich</geographic><cartographics><coordinates>48.13743, 11.57549</coordinates></cartographics></subject>
+<typeOfResource>still image</typeOfResource>
+
+
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Gottfried Galston Collection</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Gottfried Galston Music Collection and The Galston-Busoni Archive</title></titleInfo><identifier>MS-1072</identifier></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging>
+<languageTerm type="text" authority="iso639-2b">English</languageTerm>
+</languageOfCataloging></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
+<identifier type="catalog">II.C.19.ii</identifier>
+<identifier type="pid">galston_681</identifier>
+<titleInfo supplied="yes"><title>Verso, studio portrait of Gottfried Galston by Eugene Smith, 1912</title></titleInfo>
+<abstract>The reverse side of the portrait, which includes a handwritten note attributing the photograph to Eugene Smith, March 1912 (?).</abstract>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+
+</physicalDescription>
+
+
+
+
+
+<originInfo>
+<place><placeTerm valueURI="http://sws.geonames.org/2867714">Munich</placeTerm></place>
+
+<dateCreated qualifier="approximate">circa 1912</dateCreated><dateCreated encoding="edtf" qualifier="approximate">circa 1912</dateCreated>
+</originInfo>
+
+
+
+
+
+
+
+
+<subject authority="geonames" valueURI="http://sws.geonames.org/2867714"><geographic>Munich</geographic><cartographics><coordinates>48.13743, 11.57549</coordinates></cartographics></subject>
+<typeOfResource>still image</typeOfResource>
+
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Gottfried Galston Collection</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Gottfried Galston Music Collection and The Galston-Busoni Archive</title></titleInfo><identifier>MS-1072</identifier></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging>
+<languageTerm type="text" authority="iso639-2b">English</languageTerm>
+</languageOfCataloging></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
+<identifier type="catalog">II.C.19.iii</identifier>
+<identifier type="pid">galston_682</identifier>
+<titleInfo supplied="yes"><title>Portrait of Gottfried Galston during WWI</title></titleInfo>
+<abstract>Photograph postcard of Gottfried Galston, believed to have been taken ca. 1916, when he served as a Lieutenant in the Austrian Cavalry in World War I.</abstract>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</form>
+<form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+</physicalDescription>
+
+
+
+
+
+<originInfo>
+
+
+<dateCreated qualifier="approximate">circa 1916</dateCreated><dateCreated encoding="edtf" qualifier="approximate">circa 1916</dateCreated>
+</originInfo>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh99001681"><topic>Portraits</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh99005201"><topic>Cavalry</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85148236"><topic>World War, 1914-1918</topic></subject>
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79011997"><name><namePart>Galston, Gottfried, 1879-1950</namePart></name></subject>
+
+
+
+
+<typeOfResource>still image</typeOfResource>
+
+
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Gottfried Galston Collection</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Gottfried Galston Music Collection and The Galston-Busoni Archive</title></titleInfo><identifier>MS-1072</identifier></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging>
+<languageTerm type="text" authority="iso639-2b">English</languageTerm>
+</languageOfCataloging></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+</mods><mods>
+<identifier type="catalog">II.C.19.iii</identifier>
+<identifier type="pid">galston_683</identifier>
+<titleInfo supplied="yes"><title>Verso, portrait of Gottfried Galston during WWI</title></titleInfo>
+<abstract>The reverse side is a blank postcard. Inscribed is an identifier from the catalog "The Gottfried Galston Music Collection and the Galston-Busoni Archive" by Pauline Shaw Bayne.</abstract>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</form>
+
+</physicalDescription>
+
+
+
+
+
+<originInfo>
+
+
+<dateCreated qualifier="approximate">circa 1916</dateCreated><dateCreated encoding="edtf" qualifier="approximate">circa 1916</dateCreated>
+</originInfo>
+
+
+
+
+
+
+
+
+
+<typeOfResource>still image</typeOfResource>
+
+
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Gottfried Galston Collection</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Gottfried Galston Music Collection and The Galston-Busoni Archive</title></titleInfo><identifier>MS-1072</identifier></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging>
+<languageTerm type="text" authority="iso639-2b">English</languageTerm>
+</languageOfCataloging></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+</mods><mods>
+<identifier type="catalog">II.C.19.iv</identifier>
+<identifier type="pid">galston_684</identifier>
+<titleInfo supplied="yes"><title>Studio portrait of Gottfried Galston by Eduard Wasow, 1920</title></titleInfo>
+<abstract>Atmospheric photo of Gottfried Galston taken in 1920 in Munich, Germany. Galston was approximately 41 at the time of the photo and was living in the city. Eduard Wasow's signature is present at the bottom edge of the photograph.</abstract>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+
+</physicalDescription>
+<name><namePart>Wasow, Eduard</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm></role></name>
+
+
+
+
+<originInfo>
+<place><placeTerm valueURI="http://sws.geonames.org/2867714">Munich</placeTerm></place>
+<dateCreated>1920</dateCreated><dateCreated encoding="edtf">1920</dateCreated>
+
+</originInfo>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh99001681"><topic>Portraits</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85089027"><topic>Musicians</topic></subject>
+
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79011997"><name><namePart>Galston, Gottfried, 1879-1950</namePart></name></subject>
+
+
+
+<subject authority="geonames" valueURI="http://sws.geonames.org/2867714"><geographic>Munich</geographic><cartographics><coordinates>48.13743, 11.57549</coordinates></cartographics></subject>
+<typeOfResource>still image</typeOfResource>
+
+
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Gottfried Galston Collection</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Gottfried Galston Music Collection and The Galston-Busoni Archive</title></titleInfo><identifier>MS-1072</identifier></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging>
+<languageTerm type="text" authority="iso639-2b">English</languageTerm>
+</languageOfCataloging></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/mark/1.0/">Public Domain Mark 1.0</accessCondition>
+</mods><mods>
+<identifier type="catalog">II.C.19.iv</identifier>
+<identifier type="pid">galston_685</identifier>
+<titleInfo supplied="yes"><title>Verso, studio portrait of Gottfried Galston by Eduard Wasow, 1920</title></titleInfo>
+<abstract>The reverse side of the portrait includes the inscription "Wasow in Munich, 1920." Also present in the top-right-hand corner is an identifier from the catalog "The Gottfried Galston Music Collection and the Galston-Busoni Archive" by Pauline Shaw Bayne.</abstract>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+
+</physicalDescription>
+
+
+
+
+
+<originInfo>
+<place><placeTerm valueURI="http://sws.geonames.org/2867714">Munich</placeTerm></place>
+<dateCreated>1920</dateCreated><dateCreated encoding="edtf">1920</dateCreated>
+
+</originInfo>
+
+
+
+
+
+
+
+
+<subject authority="geonames" valueURI="http://sws.geonames.org/2867714"><geographic>Munich</geographic><cartographics><coordinates>48.13743, 11.57549</coordinates></cartographics></subject>
+<typeOfResource>still image</typeOfResource>
+
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Gottfried Galston Collection</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Gottfried Galston Music Collection and The Galston-Busoni Archive</title></titleInfo><identifier>MS-1072</identifier></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging>
+<languageTerm type="text" authority="iso639-2b">English</languageTerm>
+</languageOfCataloging></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/mark/1.0/">Public Domain Mark 1.0</accessCondition>
+</mods><mods>
+<identifier type="catalog">II.C.19.v</identifier>
+<identifier type="pid">galston_686</identifier>
+<titleInfo supplied="yes"><title>Studio portrait of Gottfried Galston by Wanda von Debschitz-Kunowski, 1924</title></titleInfo>
+<abstract>Photograph depicts Gottfried Galston on a bended knee in a striped suit and bowtie. Galston was approximately 44 at the time the photo was taken. Debschitz-Kunowski's signature is present at the bottom edge of the photograph.</abstract>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+
+</physicalDescription>
+<name><namePart>Debschitz-Kunowski, Wanda von</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm></role></name>
+
+
+
+
+<originInfo>
+<place><placeTerm valueURI="http://sws.geonames.org/2950159">Berlin</placeTerm></place>
+
+<dateCreated qualifier="approximate">circa 1924</dateCreated><dateCreated encoding="edtf" qualifier="approximate">circa 1924</dateCreated>
+</originInfo>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh99001681"><topic>Portraits</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85089027"><topic>Musicians</topic></subject>
+
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79011997"><name><namePart>Galston, Gottfried, 1879-1950</namePart></name></subject>
+
+
+
+<subject authority="geonames" valueURI="http://sws.geonames.org/2950159"><geographic>Berlin</geographic><cartographics><coordinates>52.52437, 13.41053</coordinates></cartographics></subject>
+<typeOfResource>still image</typeOfResource>
+
+
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Gottfried Galston Collection</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Gottfried Galston Music Collection and The Galston-Busoni Archive</title></titleInfo><identifier>MS-1072</identifier></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging>
+<languageTerm type="text" authority="iso639-2b">English</languageTerm>
+</languageOfCataloging></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/mark/1.0/">Public Domain Mark 1.0</accessCondition>
+</mods><mods>
+<identifier type="catalog">II.C.19.v</identifier>
+<identifier type="pid">galston_687</identifier>
+<titleInfo supplied="yes"><title>Verso, studio portrait of Gottfried Galston by Wanda von Debschitz-Kunowski, 1924</title></titleInfo>
+<abstract>The reverse side of the photograph includes a stamp with the text "W. v. Debschitz-Kunowski, Naussauische-Str. 4, Telefon Uhland 8117." The stamped address is in Berlin, Germany. Also present in the top-right-hand corner is an identifier from the catalog "The Gottfried Galston Music Collection and the Galston-Busoni Archive" by Pauline Shaw Bayne.</abstract>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+
+</physicalDescription>
+
+
+
+
+
+<originInfo>
+<place><placeTerm valueURI="http://sws.geonames.org/2950159">Berlin</placeTerm></place>
+
+<dateCreated qualifier="approximate">circa 1924</dateCreated><dateCreated encoding="edtf" qualifier="approximate">circa 1924</dateCreated>
+</originInfo>
+
+
+
+
+
+
+
+
+<subject authority="geonames" valueURI="http://sws.geonames.org/2950159"><geographic>Berlin</geographic><cartographics><coordinates>52.52437, 13.41053</coordinates></cartographics></subject>
+<typeOfResource>still image</typeOfResource>
+
+
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Gottfried Galston Collection</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Gottfried Galston Music Collection and The Galston-Busoni Archive</title></titleInfo><identifier>MS-1072</identifier></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging>
+<languageTerm type="text" authority="iso639-2b">English</languageTerm>
+</languageOfCataloging></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/mark/1.0/">Public Domain Mark 1.0</accessCondition>
+</mods><mods>
+<identifier type="catalog">II.C.19.vi</identifier>
+<identifier type="pid">galston_688</identifier>
+<titleInfo supplied="yes"><title>Studio portrait of Gottfried Galston by Alexander Piaget</title></titleInfo>
+<abstract>Photograph of Gottfried Galston by Alexander Piaget of Saint Louis taken in 1938. The date is handwritten on the reverse side of the photograph along with a stamp indicating the photographer's name and location.</abstract>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+
+</physicalDescription>
+<name><namePart>Piaget, Alexander</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm></role></name>
+
+
+
+
+<originInfo>
+<place><placeTerm valueURI="http://sws.geonames.org/4407066">St Louis</placeTerm></place>
+<dateCreated>1938</dateCreated><dateCreated encoding="edtf">1938</dateCreated>
+
+</originInfo>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh99001681"><topic>Portraits</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85089027"><topic>Musicians</topic></subject>
+
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79011997"><name><namePart>Galston, Gottfried, 1879-1950</namePart></name></subject>
+
+
+
+<subject authority="geonames" valueURI="http://sws.geonames.org/4407066"><geographic>St Louis</geographic><cartographics><coordinates>38.62727, -90.19789</coordinates></cartographics></subject>
+<typeOfResource>still image</typeOfResource>
+
+<language><languageTerm authority="iso639-2b" type="text">No linguistic content</languageTerm></language>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Gottfried Galston Collection</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Gottfried Galston Music Collection and The Galston-Busoni Archive</title></titleInfo><identifier>MS-1072</identifier></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging>
+<languageTerm type="text" authority="iso639-2b">English</languageTerm>
+</languageOfCataloging></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+</mods><mods>
+<identifier type="catalog">II.C.19.vi</identifier>
+<identifier type="pid">galston_689</identifier>
+<titleInfo supplied="yes"><title>Verso, studio portrait of Gottfried Galston by Alexander Piaget</title></titleInfo>
+<abstract>The verso of the portrait of Glaston. "1938" is handwritten and stamped text reads "a photography by Alexander Piaget, Saint Louis."</abstract>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+
+</physicalDescription>
+
+
+
+
+
+<originInfo>
+<place><placeTerm valueURI="http://sws.geonames.org/4407066">St Louis</placeTerm></place>
+<dateCreated>1938</dateCreated><dateCreated encoding="edtf">1938</dateCreated>
+
+</originInfo>
+
+
+
+
+
+
+
+
+<subject authority="geonames" valueURI="http://sws.geonames.org/4407066"><geographic>St Louis</geographic><cartographics><coordinates>38.62727, -90.19789</coordinates></cartographics></subject>
+<typeOfResource>still image</typeOfResource>
+
+
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Gottfried Galston Collection</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Gottfried Galston Music Collection and The Galston-Busoni Archive</title></titleInfo><identifier>MS-1072</identifier></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging>
+<languageTerm type="text" authority="iso639-2b">English</languageTerm>
+</languageOfCataloging></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+</mods><mods>
+<identifier type="catalog">II.C.20.xii</identifier>
+<identifier type="pid">galston_690</identifier>
+<titleInfo supplied="yes"><title>Snapshot of Gottfried and Helen Galston in Yosemite</title></titleInfo>
+<abstract>A snapshot photograph of Gottfried Galston and wife Helen in Yosemite, California, 1941. Galston took this photograph using the camera’s self-timer.</abstract>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+
+</physicalDescription>
+<name valueURI="http://id.loc.gov/authorities/names/n79011997" authority="naf"><namePart>Galston, Gottfried, 1879-1950</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm></role></name>
+
+
+
+
+<originInfo>
+<place><placeTerm valueURI="http://sws.geonames.org/5410952">Yosemite National Park</placeTerm></place>
+<dateCreated>1941</dateCreated><dateCreated encoding="edtf">1941</dateCreated>
+
+</originInfo>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2005004897"><topic>Yosemite National Park (Calif.)</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85147187"><topic>Wives</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85089027"><topic>Musicians</topic></subject>
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79011997"><name><namePart>Galston, Gottfried, 1879-1950</namePart></name></subject>
+<subject><name><namePart>Galston Tibbe, Helen</namePart></name></subject>
+
+
+<subject authority="geonames" valueURI="http://sws.geonames.org/5410952"><geographic>Yosemite National Park</geographic><cartographics><coordinates>37.84835, -119.55696</coordinates></cartographics></subject>
+<typeOfResource>still image</typeOfResource>
+
+
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Gottfried Galston Collection</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Gottfried Galston Music Collection and The Galston-Busoni Archive</title></titleInfo><identifier>MS-1072</identifier></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging>
+<languageTerm type="text" authority="iso639-2b">English</languageTerm>
+</languageOfCataloging></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/mark/1.0/">Public Domain Mark 1.0</accessCondition>
+</mods><mods>
+<identifier type="catalog">II.C.20.xii</identifier>
+<identifier type="pid">galston_691</identifier>
+<titleInfo supplied="yes"><title>Verso, snapshot of Gottfried and Helen Galston Tibbe in Yosemite</title></titleInfo>
+<abstract>The verso the Yosemite snapshot of Gottfried Galston and his wife Helen. The inscription on the back of the photograph reads "Yosemite, Calif 1941 - Sitting on the John Muir bench in the meadows. GG keeps his eye on the camera w/ timer, + HG gazes at Yosemite Falls."</abstract>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+
+</physicalDescription>
+
+
+
+
+
+<originInfo>
+<place><placeTerm valueURI="http://sws.geonames.org/5410952">Yosemite National Park</placeTerm></place>
+<dateCreated>1941</dateCreated><dateCreated encoding="edtf">1941</dateCreated>
+
+</originInfo>
+
+
+
+
+
+
+
+
+<subject authority="geonames" valueURI="http://sws.geonames.org/5410952"><geographic>Yosemite National Park</geographic><cartographics><coordinates>37.84835, -119.55696</coordinates></cartographics></subject>
+<typeOfResource>still image</typeOfResource>
+
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Gottfried Galston Collection</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Gottfried Galston Music Collection and The Galston-Busoni Archive</title></titleInfo><identifier>MS-1072</identifier></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging>
+<languageTerm type="text" authority="iso639-2b">English</languageTerm>
+</languageOfCataloging></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/mark/1.0/">Public Domain Mark 1.0</accessCondition>
+</mods><mods>
+<identifier type="catalog">II.C.35</identifier>
+<identifier type="pid">galston_692</identifier>
+<titleInfo supplied="yes"><title>Postcard of Gottfried Galston and Artur Schnabel</title></titleInfo>
+<abstract>Postcard of Gottfried Galston with pianist Artur Schnabel. The handwritten note above the picture indicates it was taken in Berlin in January 1900. Photographer unknown.</abstract>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+<form authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</form>
+</physicalDescription>
+
+
+
+
+
+<originInfo>
+<place><placeTerm valueURI="http://sws.geonames.org/2950159">Berlin</placeTerm></place>
+<dateCreated>January 2, 1900</dateCreated><dateCreated encoding="edtf">1900-01-02</dateCreated>
+
+</originInfo>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85105203"><topic>Portraits, Group</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85089027"><topic>Musicians</topic></subject>
+
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79011997"><name><namePart>Galston, Gottfried, 1879-1950</namePart></name></subject>
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n50004689"><name><namePart>Schnabel, Artur, 1882-1951</namePart></name></subject>
+
+
+<subject authority="geonames" valueURI="http://sws.geonames.org/2950159"><geographic>Berlin</geographic><cartographics><coordinates>52.52437, 13.41053</coordinates></cartographics></subject>
+<typeOfResource>still image</typeOfResource>
+
+
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Gottfried Galston Collection</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Gottfried Galston Music Collection and The Galston-Busoni Archive</title></titleInfo><identifier>MS-1072</identifier></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging>
+<languageTerm type="text" authority="iso639-2b">English</languageTerm>
+</languageOfCataloging></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/mark/1.0/">Public Domain Mark 1.0</accessCondition>
+</mods><mods>
+<identifier type="catalog">II.C.35</identifier>
+<identifier type="pid">galston_693</identifier>
+<titleInfo supplied="yes"><title>Verso, postcard of Gottfried Galston and Artur Schnabel</title></titleInfo>
+<abstract>Blank message side of "Postkarte". This postcard with photograph of Artur Schnabel on its front was never mailed.</abstract>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</form>
+
+</physicalDescription>
+
+
+
+
+
+<originInfo>
+<place><placeTerm valueURI="http://sws.geonames.org/2950159">Berlin</placeTerm></place>
+<dateCreated>January 2, 1900</dateCreated><dateCreated encoding="edtf">1900-01-02</dateCreated>
+
+</originInfo>
+
+
+
+
+
+
+
+
+<subject authority="geonames" valueURI="http://sws.geonames.org/2950159"><geographic>Berlin</geographic><cartographics><coordinates>52.52437, 13.41053</coordinates></cartographics></subject>
+<typeOfResource>still image</typeOfResource>
+
+<language><languageTerm authority="iso639-2b" type="text">German</languageTerm></language>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Gottfried Galston Collection</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Gottfried Galston Music Collection and The Galston-Busoni Archive</title></titleInfo><identifier>MS-1072</identifier></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging>
+<languageTerm type="text" authority="iso639-2b">English</languageTerm>
+</languageOfCataloging></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/mark/1.0/">Public Domain Mark 1.0</accessCondition>
+</mods><mods>
+<identifier type="catalog">II.C.40</identifier>
+<identifier type="pid">galston_694</identifier>
+<titleInfo supplied="yes"><title>Photograph of Gottfried Galston in the Wilcox &amp; White recording studio</title></titleInfo>
+<abstract>Photograph of Gottfried Galston sitting at a recording piano in the Wilcox and White recording studio above the company’s piano/organ factory in Meridien, Connecticut. The piano was used to record the Artrio-Angelus and Voltem rolls for the Wilcox &amp; White player pianos and organs. A handwritten note on the reverse dates this photograph to 1912, which coincides with Galston’s U.S. tour. The photograph is inscribed “With best wishes for a Continental Success, F. C. White &amp; P.K. Wilcox” - probably the two other men in the photograph. Note the photograph of Galston on the wall behind him.</abstract>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+
+</physicalDescription>
+
+
+
+
+
+<originInfo>
+<place><placeTerm valueURI="http://sws.geonames.org/4838524">Meriden</placeTerm></place>
+<dateCreated>1912</dateCreated><dateCreated encoding="edtf">1912</dateCreated>
+
+</originInfo>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85105203"><topic>Portraits, Group</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85089027"><topic>Musicians</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85125401"><topic>Sound studios</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85101722"><topic>Piano</topic></subject>
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79011997"><name><namePart>Galston, Gottfried, 1879-1950</namePart></name></subject>
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n98050442"><name><namePart>Wilcox &amp; White Company</namePart></name></subject>
+
+
+<subject authority="geonames" valueURI="http://sws.geonames.org/4838524"><geographic>Meriden</geographic><cartographics><coordinates>41.53815, -72.80704</coordinates></cartographics></subject>
+<typeOfResource>still image</typeOfResource>
+
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Gottfried Galston Collection</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Gottfried Galston Music Collection and The Galston-Busoni Archive</title></titleInfo><identifier>MS-1072</identifier></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging>
+<languageTerm type="text" authority="iso639-2b">English</languageTerm>
+</languageOfCataloging></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+</mods><mods>
+<identifier type="catalog">II.C.40</identifier>
+<identifier type="pid">galston_695</identifier>
+<titleInfo supplied="yes"><title>Verso, photograph of Gottfried Galston in the Wilcox &amp; White recording studio</title></titleInfo>
+<abstract>The reverse side of the photograph of Gottfried Galston in the Wilcox and White recording studio. A handwritten note dates this photograph to 1912, which coincides with Galston’s U.S. tour. It also identifies Meriden, Connecticut as the studio's location.</abstract>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+
+</physicalDescription>
+
+
+
+
+
+<originInfo>
+<place><placeTerm valueURI="http://sws.geonames.org/4838524">Meriden</placeTerm></place>
+<dateCreated>1912</dateCreated><dateCreated encoding="edtf">1912</dateCreated>
+
+</originInfo>
+
+
+
+
+
+
+
+
+<subject authority="geonames" valueURI="http://sws.geonames.org/4838524"><geographic>Meriden</geographic><cartographics><coordinates>41.53815, -72.80704</coordinates></cartographics></subject>
+<typeOfResource>still image</typeOfResource>
+
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Gottfried Galston Collection</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Gottfried Galston Music Collection and The Galston-Busoni Archive</title></titleInfo><identifier>MS-1072</identifier></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging>
+<languageTerm type="text" authority="iso639-2b">English</languageTerm>
+</languageOfCataloging></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+</mods><mods>
+<identifier type="catalog">G.4.a.1</identifier>
+<identifier type="pid">galston_696</identifier>
+<titleInfo supplied="yes"><title>Sketch of Gottfried Galston performing at a concert</title></titleInfo>
+<abstract>This sketch depicts Galston before a concert performance on April 2, 1908. Inscribed is the text "Avant le Concert le 2. Avril 08." In the background is a man with a mustache holding a money bag with the name "Dandelot" written above his head. This is likely Arthur Dandelot, a French music critic.</abstract>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300015617">sketches</form>
+
+</physicalDescription>
+<name><namePart>Bodmer, C. E.</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm></role></name>
+
+
+
+
+<originInfo>
+
+<dateCreated>April 26, 1908</dateCreated><dateCreated encoding="edtf">1908-04-26</dateCreated>
+
+</originInfo>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85101722"><topic>Piano</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85030620"><topic>Concerts</topic></subject>
+
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79011997"><name><namePart>Galston, Gottfried, 1879-1950</namePart></name></subject>
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n2016060795"><name><namePart>Dandelot, Arthur, 1864-1943</namePart></name></subject>
+
+
+
+<typeOfResource>still image</typeOfResource>
+
+<language><languageTerm authority="iso639-2b" type="text">French</languageTerm></language>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Gottfried Galston Collection</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Gottfried Galston Music Collection and The Galston-Busoni Archive</title></titleInfo><identifier>MS-1072</identifier></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging>
+<languageTerm type="text" authority="iso639-2b">English</languageTerm>
+</languageOfCataloging></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+</mods><mods>
+<identifier type="catalog">G.4.e.2</identifier>
+<identifier type="pid">galston_697</identifier>
+<titleInfo supplied="yes"><title>Portrait of Gottfried Galston</title></titleInfo>
+<abstract>Signed and dated monochromatic oil portrait of Gottfried Galston by Felix Meseck.</abstract>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300033618">paintings (visual works)</form>
+
+</physicalDescription>
+
+<name valueURI="http://id.loc.gov/authorities/names/no2007010769" authority="naf"><namePart>Meseck, Felix, 1883-1955</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/art">Artist</roleTerm></role></name>
+
+
+
+<originInfo>
+
+<dateCreated>1922</dateCreated><dateCreated encoding="edtf">1922</dateCreated>
+
+</originInfo>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh99001681"><topic>Portraits</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85089027"><topic>Musicians</topic></subject>
+
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79011997"><name><namePart>Galston, Gottfried, 1879-1950</namePart></name></subject>
+
+
+
+
+<typeOfResource>still image</typeOfResource>
+
+
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Gottfried Galston Collection</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Gottfried Galston Music Collection and The Galston-Busoni Archive</title></titleInfo><identifier>MS-1072</identifier></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging>
+<languageTerm type="text" authority="iso639-2b">English</languageTerm>
+</languageOfCataloging></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods><mods>
+<identifier type="catalog">G.4.e.3</identifier>
+<identifier type="pid">galston_698</identifier>
+<titleInfo supplied="yes"><title>Pencil sketch of Gottfried Galston by Felix Meseck</title></titleInfo>
+<abstract>Line-based portrait of Gottfried Galston by Felix Meseck. The work is undated, but it can be inferred that the sketch likely was created while Galston lived in Berlin (1921-1926).</abstract>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300015617">sketches</form>
+
+</physicalDescription>
+
+<name valueURI="http://id.loc.gov/authorities/names/no2007010769" authority="naf"><namePart>Meseck, Felix, 1883-1955</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/art">Artist</roleTerm></role></name>
+
+
+
+<originInfo>
+
+
+<dateCreated qualifier="approximate">1921-1926</dateCreated><dateCreated encoding="edtf" qualifier="approximate" point="start">1921</dateCreated><dateCreated encoding="edtf" qualifier="approximate" point="end">1926</dateCreated>
+</originInfo>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh99001681"><topic>Portraits</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85089027"><topic>Musicians</topic></subject>
+
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79011997"><name><namePart>Galston, Gottfried, 1879-1950</namePart></name></subject>
+
+
+
+
+<typeOfResource>still image</typeOfResource>
+
+<language><languageTerm authority="iso639-2b" type="text">No linguistic content</languageTerm></language>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Gottfried Galston Collection</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Gottfried Galston Music Collection and The Galston-Busoni Archive</title></titleInfo><identifier>MS-1072</identifier></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging>
+<languageTerm type="text" authority="iso639-2b">English</languageTerm>
+</languageOfCataloging></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods><mods>
+<identifier type="catalog">G.4.e.3</identifier>
+<identifier type="pid">galston_699</identifier>
+<titleInfo supplied="yes"><title>Verso, pencil sketch of Gottfried Galston by Felix Meseck</title></titleInfo>
+<abstract>The reverse side of the sketch by Meseck includes an identifier in the top-right-hand corner from the catalog "The Gottfried Galston Music Collection and the Galston-Busoni Archive" by Pauline Shaw Bayne.</abstract>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300015617">sketches</form>
+
+</physicalDescription>
+
+
+
+
+
+<originInfo>
+
+
+<dateCreated qualifier="approximate">1921-1926</dateCreated><dateCreated encoding="edtf" qualifier="approximate" point="start">1921</dateCreated><dateCreated encoding="edtf" qualifier="approximate" point="end">1926</dateCreated>
+</originInfo>
+
+
+
+
+
+
+
+
+
+<typeOfResource>still image</typeOfResource>
+
+
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Gottfried Galston Collection</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Gottfried Galston Music Collection and The Galston-Busoni Archive</title></titleInfo><identifier>MS-1072</identifier></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging>
+<languageTerm type="text" authority="iso639-2b">English</languageTerm>
+</languageOfCataloging></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods><mods>
+<identifier type="catalog">G.4.g.1</identifier>
+<identifier type="pid">galston_700</identifier>
+<titleInfo supplied="yes"><title>Lithograph made for posters for Gottfried Galston's Paris concerts</title></titleInfo>
+<abstract>Original lithograph mounted on a board. The work depicts Gottfried Galston seated at a piano with ethereal figures participating in bebauchery emanating from the instrument. The figures include three mounted horsemen, a winged angel, and a crucified man.</abstract>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300041379">lithographs</form>
+
+</physicalDescription>
+
+<name valueURI="http://id.loc.gov/authorities/names/no2005081852" authority="naf"><namePart>Veber, Jean, 1864-1928</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/art">Artist</roleTerm></role></name>
+
+
+
+<originInfo>
+
+<dateCreated>1911</dateCreated><dateCreated encoding="edtf">1911</dateCreated>
+
+</originInfo>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85030620"><topic>Concerts</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85089027"><topic>Musicians</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85101722"><topic>Piano</topic></subject>
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79011997"><name><namePart>Galston, Gottfried, 1879-1950</namePart></name></subject>
+
+
+
+
+<typeOfResource>still image</typeOfResource>
+
+
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Gottfried Galston Collection</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Gottfried Galston Music Collection and The Galston-Busoni Archive</title></titleInfo><identifier>MS-1072</identifier></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging>
+<languageTerm type="text" authority="iso639-2b">English</languageTerm>
+</languageOfCataloging></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/mark/1.0/">Public Domain Mark 1.0</accessCondition>
+</mods><mods>
+<identifier type="catalog">G.4.g.3</identifier>
+<identifier type="pid">galston_701</identifier>
+<titleInfo supplied="yes"><title>Sketch of Gottfried Galston at the piano</title></titleInfo>
+<abstract>Sketch depicting Galston at the piano with female figures wearing hats roughly rendered in the background. The work includes the inscription "à Gottfried Galston, avec tote mes excuses." This note from the artist Veber apologizes to Galston in case the caricature is seen as unflattering.</abstract>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300015617">sketches</form>
+
+</physicalDescription>
+
+<name valueURI="http://id.loc.gov/authorities/names/no2005081852" authority="naf"><namePart>Veber, Jean, 1864-1928</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/art">Artist</roleTerm></role></name>
+
+
+
+<originInfo>
+
+<dateCreated>1909</dateCreated><dateCreated encoding="edtf">1909</dateCreated>
+
+</originInfo>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85030620"><topic>Concerts</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85089027"><topic>Musicians</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85101722"><topic>Piano</topic></subject>
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79011997"><name><namePart>Galston, Gottfried, 1879-1950</namePart></name></subject>
+
+
+
+
+<typeOfResource>still image</typeOfResource>
+
+<language><languageTerm authority="iso639-2b" type="text">French</languageTerm></language>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Gottfried Galston Collection</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Gottfried Galston Music Collection and The Galston-Busoni Archive</title></titleInfo><identifier>MS-1072</identifier></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging>
+<languageTerm type="text" authority="iso639-2b">English</languageTerm>
+</languageOfCataloging></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/mark/1.0/">Public Domain Mark 1.0</accessCondition>
+</mods><mods>
+<identifier type="catalog">G.4.g.3</identifier>
+<identifier type="pid">galston_702</identifier>
+<titleInfo supplied="yes"><title>Verso, sketch of Gottfried Galston at the piano</title></titleInfo>
+<abstract>On the reverse side of the 1909 sketch of Galston at the piano is a page from a German-language newspaper, title and date unknown. There is a section for musical concerts, but there do not appear to be any references to Galston.</abstract>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026656">newspapers</form>
+
+</physicalDescription>
+
+
+
+
+
+<originInfo>
+
+<dateCreated>1909</dateCreated><dateCreated encoding="edtf">1909</dateCreated>
+
+</originInfo>
+
+
+
+
+
+
+
+
+
+<typeOfResource>still image</typeOfResource>
+
+<language><languageTerm authority="iso639-2b" type="text">German</languageTerm></language>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Gottfried Galston Collection</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Gottfried Galston Music Collection and The Galston-Busoni Archive</title></titleInfo><identifier>MS-1072</identifier></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging>
+<languageTerm type="text" authority="iso639-2b">English</languageTerm>
+</languageOfCataloging></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/mark/1.0/">Public Domain Mark 1.0</accessCondition>
+</mods><mods>
+
+<identifier type="pid">galston_703</identifier>
+<titleInfo supplied="yes"><title>Postcard from Leopold Godowsky to Gottfried Galston, May 30, 1908</title></titleInfo>
+<abstract>A postcard sent to Galston while he lived in Berlin from pianist Leopold Godowsky. The postcard is from Galston's own stationery, with his name and address printed on it. The note was glued to an interleaving page in the Chopin section of the Studienbuch, and concerns Godowsky's own interpretation of Chopin's études. The postmark date is May 30, 1908.</abstract>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</form>
+
+</physicalDescription>
+
+
+<name valueURI="http://id.loc.gov/authorities/names/n79011997" authority="naf"><namePart>Galston, Gottfried, 1879-1950</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/rcp">Addressee</roleTerm></role></name>
+<name valueURI="http://id.loc.gov/authorities/names/n80004357" authority="naf"><namePart>Godowsky, Leopold, 1870-1938</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/crp">Correspondent</roleTerm></role></name>
+
+<originInfo>
+
+<dateCreated>May 30, 1908</dateCreated><dateCreated encoding="edtf">1908-05-08</dateCreated>
+
+</originInfo>
+
+
+
+
+
+
+
+
+
+<typeOfResource>text</typeOfResource>
+
+<language><languageTerm authority="iso639-2b" type="text">German</languageTerm></language>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Gottfried Galston Collection</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Gottfried Galston Music Collection and The Galston-Busoni Archive</title></titleInfo><identifier>MS-1072</identifier></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging>
+<languageTerm type="text" authority="iso639-2b">English</languageTerm>
+</languageOfCataloging></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
+
+<identifier type="pid">galston_704</identifier>
+<titleInfo supplied="yes"><title>Postcard message from Leopold Godowsky to Gottfried Galston, May 30, 1908</title></titleInfo>
+<abstract>A postcard sent to Galston while he lived in Berlin from pianist Leopold Godowsky. The postcard is written on Galston's own stationery, with his name and address printed on it. The note was glued to an interleaving page in the Chopin section of the Studienbuch, and concerns Godowsky's own interpretation of Chopin's études. The postmark date is May 30, 1908.</abstract>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</form>
+
+</physicalDescription>
+
+
+<name valueURI="http://id.loc.gov/authorities/names/n79011997" authority="naf"><namePart>Galston, Gottfried, 1879-1950</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/rcp">Addressee</roleTerm></role></name>
+<name valueURI="http://id.loc.gov/authorities/names/n80004357" authority="naf"><namePart>Godowsky, Leopold, 1870-1938</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/crp">Correspondent</roleTerm></role></name>
+
+<originInfo>
+
+<dateCreated>May 30, 1908</dateCreated><dateCreated encoding="edtf">1908-05-08</dateCreated>
+
+</originInfo>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85088799"><topic>Music--Interpretation (Phrasing, dynamics, etc.)</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85101782"><topic>Piano music</topic></subject>
+
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79127769"><name><namePart>Chopin, Frédéric, 1810-1849</namePart></name></subject>
+
+
+
+
+<typeOfResource>text</typeOfResource>
+<typeOfResource>notated music</typeOfResource>
+<language><languageTerm authority="iso639-2b" type="text">German</languageTerm></language>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Gottfried Galston Collection</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Gottfried Galston Music Collection and The Galston-Busoni Archive</title></titleInfo><identifier>MS-1072</identifier></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging>
+<languageTerm type="text" authority="iso639-2b">English</languageTerm>
+</languageOfCataloging></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods><mods>
+
+<identifier type="pid">galston_711</identifier>
+<titleInfo supplied="yes"><title>Studienbuch note on Busoni's analysis of Beethoven's Opus 106</title></titleInfo>
+<abstract>The provenance of this note is unclear. It was most likely inserted between the pages of this bound volume of the Studienbuch because it has been assigned the same catalog number as the book, indicating that it is "2 of 2". The handwriting is comparable to Galston's but has not been positively identified as his. The note itself comments on analysis by Busoni of Beethoven's Piano Sonata No. 29 in B flat major, Op. 106.</abstract>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300027200">notes (documents)</form>
+
+</physicalDescription>
+
+
+
+
+
+<originInfo>
+
+
+<dateCreated qualifier="approximate">1910</dateCreated><dateCreated encoding="edtf" qualifier="approximate">1910</dateCreated>
+</originInfo>
+
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85101782"><topic>Piano music</topic></subject>
+
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79124601"><name><namePart>Busoni, Ferruccio, 1866-1924</namePart></name></subject>
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79107741"><name><namePart>Beethoven, Ludwig van, 1770-1827</namePart></name></subject>
+
+
+
+<typeOfResource>text</typeOfResource>
+
+<language><languageTerm authority="iso639-2b" type="text">German</languageTerm></language>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Gottfried Galston Collection</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Gottfried Galston Music Collection and The Galston-Busoni Archive</title></titleInfo><identifier>MS-1072</identifier></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging>
+<languageTerm type="text" authority="iso639-2b">English</languageTerm>
+</languageOfCataloging></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+</mods><mods>
+<identifier type="catalog">II.C.11</identifier>
+<identifier type="pid">galston_716</identifier>
+<titleInfo supplied="yes"><title>Photograph of Sandra Droucker Galston, Gottfried Galston, Ferruccio Busoni, and Gerda Busoni, 1913</title></titleInfo>
+<abstract>Photograph taken by Chaliapin of following his performance in "Barber of Seville" in Russia. Gottfried Galston and his wife Sandra as well as Ferruccio Busoni and his wife Gerda are present. Gerda holds a dog in her lap and wine bottles are on the table.</abstract>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+
+</physicalDescription>
+<name valueURI="http://id.loc.gov/authorities/names/n50002543" authority="naf"><namePart>Chaliapin, Fyodor Ivanovich, 1873-1938</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm></role></name>
+
+
+
+
+<originInfo>
+<place><placeTerm valueURI="http://sws.geonames.org/2017370">Russia</placeTerm></place>
+<dateCreated>1913</dateCreated><dateCreated encoding="edtf">1913</dateCreated>
+
+</originInfo>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85044107"><topic>Entertaining</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85105203"><topic>Portraits, Group</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85089027"><topic>Musicians</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85147187"><topic>Wives</topic></subject>
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79011997"><name><namePart>Galston, Gottfried, 1879-1950</namePart></name></subject>
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/no2009163749"><name><namePart>Droucker, Sandra, 1876-1944</namePart></name></subject>
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79124601"><name><namePart>Busoni, Ferruccio, 1866-1924</namePart></name></subject>
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/no96036698"><name><namePart>Busoni, Gerda, 1862-1956</namePart></name></subject>
+<subject authority="geonames" valueURI="http://sws.geonames.org/2017370"><geographic>Russia</geographic><cartographics><coordinates>60, 100</coordinates></cartographics></subject>
+<typeOfResource>still image</typeOfResource>
+
+<language><languageTerm authority="iso639-2b" type="text">No linguistic content</languageTerm></language>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Gottfried Galston Collection</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Gottfried Galston Music Collection and The Galston-Busoni Archive</title></titleInfo><identifier>MS-1072</identifier></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging>
+<languageTerm type="text" authority="iso639-2b">English</languageTerm>
+</languageOfCataloging></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/mark/1.0/">Public Domain Mark 1.0</accessCondition>
+</mods><mods>
+<identifier type="catalog">II.C.11</identifier>
+<identifier type="pid">galston_717</identifier>
+<titleInfo supplied="yes"><title>Verso, photograph of Sandra Droucker Galston, Gottfried Galston, Ferruccio Busoni, and Gerda Busoni, 1913</title></titleInfo>
+<abstract>The reverse side of the photograph includes the inscription "L to R: Sandra Droucker Galston, Gottfried Galston, Ferruccio Busoni, Gerda Busoni." Also present in the top-right-hand corner is an identifier from the catalog "The Gottfried Galston Music Collection and the Galston-Busoni Archive" by Pauline Shaw Bayne.</abstract>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+
+</physicalDescription>
+
+
+
+
+
+<originInfo>
+<place><placeTerm valueURI="http://sws.geonames.org/2017370">Russia</placeTerm></place>
+<dateCreated>1913</dateCreated><dateCreated encoding="edtf">1913</dateCreated>
+
+</originInfo>
+
+
+
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79011997"><name><namePart>Galston, Gottfried, 1879-1950</namePart></name></subject>
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/no2009163749"><name><namePart>Droucker, Sandra, 1876-1944</namePart></name></subject>
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79124601"><name><namePart>Busoni, Ferruccio, 1866-1924</namePart></name></subject>
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/no96036698"><name><namePart>Busoni, Gerda, 1862-1956</namePart></name></subject>
+<subject authority="geonames" valueURI="http://sws.geonames.org/2017370"><geographic>Russia</geographic><cartographics><coordinates>60, 100</coordinates></cartographics></subject>
+<typeOfResource>still image</typeOfResource>
+
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Gottfried Galston Collection</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Gottfried Galston Music Collection and The Galston-Busoni Archive</title></titleInfo><identifier>MS-1072</identifier></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging>
+<languageTerm type="text" authority="iso639-2b">English</languageTerm>
+</languageOfCataloging></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/mark/1.0/">Public Domain Mark 1.0</accessCondition>
+</mods><mods>
+<identifier type="catalog">II.G.1</identifier>
+<identifier type="pid">galston_718</identifier>
+<titleInfo supplied="yes"><title>Plaster casts of Ferruccio Busoni's and Gottfried Galston's right hands</title></titleInfo>
+<abstract>Busoni's hand is on the left and Galston's hand is on the right. Both are laid on top of sheet music.</abstract>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+<form authority="aat" valueURI="http://vocab.getty.edu/aat/300047806">casts (sculpture)</form>
+</physicalDescription>
+<name><namePart>O'Barr, Shelley</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm></role></name>
+
+
+
+<name><namePart>Wingerd, Harriet Ungals</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/rsr">Restorationist</roleTerm></role></name>
+<originInfo>
+
+<dateCreated>2019</dateCreated><dateCreated encoding="edtf">2019</dateCreated>
+
+</originInfo>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85103106"><topic>Plaster casts</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85089027"><topic>Musicians</topic></subject>
+
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79011997"><name><namePart>Galston, Gottfried, 1879-1950</namePart></name></subject>
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79124601"><name><namePart>Busoni, Ferruccio, 1866-1924</namePart></name></subject>
+
+
+
+<typeOfResource>still image</typeOfResource>
+
+<language><languageTerm authority="iso639-2b" type="text">No linguistic content</languageTerm></language>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Gottfried Galston Collection</title></titleInfo></relatedItem>
+
+<location><physicalLocation valueURI=""></physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging>
+<languageTerm type="text" authority="iso639-2b">English</languageTerm>
+</languageOfCataloging></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods></modsCollection>
