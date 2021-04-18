@@ -15,15 +15,15 @@
    </physicalDescription>
    <originInfo>
       <place>
-         <placeTerm valueURI="http://sws.geonames.org/698740">Odessa</placeTerm>
+         <placeTerm valueURI="http://sws.geonames.org/709161">Feodosiya</placeTerm>
       </place>
       <dateCreated>1912</dateCreated>
       <dateCreated encoding="edtf">1912</dateCreated>
    </originInfo>
-   <subject authority="geonames" valueURI="http://sws.geonames.org/698740">
-      <geographic>Odessa</geographic>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/709161">
+      <geographic>Feodosiya</geographic>
       <cartographics>
-         <coordinates>46.48572, 30.74383</coordinates>
+         <coordinates>45.03199, 35.38153</coordinates>
       </cartographics>
    </subject>
    <typeOfResource>still image</typeOfResource>

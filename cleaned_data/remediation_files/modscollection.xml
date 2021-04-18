@@ -37,8 +37,7 @@
 <languageTerm type="text" authority="iso639-2b">English</languageTerm>
 </languageOfCataloging></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/mark/1.0/">Public Domain Mark 1.0</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="catalog">II.C.10</identifier>
 <identifier type="pid">galston_705</identifier>
 <titleInfo supplied="yes"><title>Verso, photograph of Ferruccio Busoni</title></titleInfo>
@@ -76,8 +75,7 @@
 <languageTerm type="text" authority="iso639-2b">English</languageTerm>
 </languageOfCataloging></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/mark/1.0/">Public Domain Mark 1.0</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="catalog">II.C.15</identifier>
 <identifier type="pid">galston_706</identifier>
 <titleInfo supplied="yes"><title>Studio portrait of Sandra Droucker by Eduard Wasow</title></titleInfo>
@@ -115,8 +113,7 @@
 <languageTerm type="text" authority="iso639-2b">English</languageTerm>
 </languageOfCataloging></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/mark/1.0/">Public Domain Mark 1.0</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="catalog">II.C.15</identifier>
 <identifier type="pid">galston_707</identifier>
 <titleInfo supplied="yes"><title>Verso, studio portrait of Sandra Droucker by Eduard Wasow</title></titleInfo>
@@ -154,12 +151,11 @@
 <languageTerm type="text" authority="iso639-2b">English</languageTerm>
 </languageOfCataloging></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/mark/1.0/">Public Domain Mark 1.0</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="catalog">II.C.18</identifier>
 <identifier type="pid">galston_708</identifier>
 <titleInfo supplied="yes"><title>Group portrait of Gottfried Galston and Mr. Pickman</title></titleInfo>
-<abstract>Photograph taken in Odessa, Ukraine and published by V. Goldstein based in Feodosia. Includes inscription and decorative imprinted floral mat. The inscription in the lower right hand corner states "To an actor of genius, a wonderful man, and a good friend, Gottfried Gallstone from his truly Isay Pikman, February 1, 1912, Feodosia, Crimea."</abstract>
+<abstract>Photograph taken in Feodosia by V. Goldstein. Includes inscription and decorative imprinted floral mat. The inscription in the lower right hand corner states "To an actor of genius, a wonderful man, and a good friend, Gottfried Gallstone from his truly Isay Pikman, February 1, 1912, Feodosia, Crimea."</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
 
 </physicalDescription>
@@ -169,7 +165,7 @@
 
 
 <originInfo>
-<place><placeTerm valueURI="http://sws.geonames.org/698740">Odessa</placeTerm></place>
+<place><placeTerm valueURI="http://sws.geonames.org/709161">Feodosiya</placeTerm></place>
 <dateCreated>1912</dateCreated><dateCreated encoding="edtf">1912</dateCreated>
 
 </originInfo>
@@ -181,7 +177,7 @@
 
 
 
-<subject authority="geonames" valueURI="http://sws.geonames.org/698740"><geographic>Odessa</geographic><cartographics><coordinates>46.48572, 30.74383</coordinates></cartographics></subject>
+<subject authority="geonames" valueURI="http://sws.geonames.org/709161"><geographic>Feodosiya</geographic><cartographics><coordinates>45.03199, 35.38153</coordinates></cartographics></subject>
 <typeOfResource>still image</typeOfResource>
 
 <language><languageTerm authority="iso639-2b" type="text">Russian</languageTerm></language>
@@ -193,8 +189,7 @@
 <languageTerm type="text" authority="iso639-2b">English</languageTerm>
 </languageOfCataloging></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="catalog">II.C.18</identifier>
 <identifier type="pid">galston_709</identifier>
 <titleInfo supplied="yes"><title>Verso, group portrait of Gottfried Galston and Mr. Pickman</title></titleInfo>
@@ -208,7 +203,7 @@
 
 
 <originInfo>
-<place><placeTerm valueURI="http://sws.geonames.org/698740">Odessa</placeTerm></place>
+<place><placeTerm valueURI="http://sws.geonames.org/709161">Feodosiya</placeTerm></place>
 <dateCreated>1912</dateCreated><dateCreated encoding="edtf">1912</dateCreated>
 
 </originInfo>
@@ -220,7 +215,7 @@
 
 
 
-<subject authority="geonames" valueURI="http://sws.geonames.org/698740"><geographic>Odessa</geographic><cartographics><coordinates>46.48572, 30.74383</coordinates></cartographics></subject>
+<subject authority="geonames" valueURI="http://sws.geonames.org/709161"><geographic>Feodosiya</geographic><cartographics><coordinates>45.03199, 35.38153</coordinates></cartographics></subject>
 <typeOfResource>still image</typeOfResource>
 
 
@@ -232,8 +227,7 @@
 <languageTerm type="text" authority="iso639-2b">English</languageTerm>
 </languageOfCataloging></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="catalog">II.C.19.i</identifier>
 <identifier type="pid">galston_710</identifier>
 <titleInfo supplied="yes"><title>Photograph of Gottfried Galston at piano</title></titleInfo>
@@ -271,8 +265,7 @@
 <languageTerm type="text" authority="iso639-2b">English</languageTerm>
 </languageOfCataloging></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/mark/1.0/">Public Domain Mark 1.0</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="catalog">II.C.19.i</identifier>
 <identifier type="pid">galston_679</identifier>
 <titleInfo supplied="yes"><title>Verso, photograph of Gottfried Galston at piano</title></titleInfo>
@@ -310,8 +303,7 @@
 <languageTerm type="text" authority="iso639-2b">English</languageTerm>
 </languageOfCataloging></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/mark/1.0/">Public Domain Mark 1.0</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="catalog">II.C.19.ii</identifier>
 <identifier type="pid">galston_680</identifier>
 <titleInfo supplied="yes"><title>Studio portrait of Gottfried Galston by Eugene Smith, 1912</title></titleInfo>
@@ -349,8 +341,7 @@
 <languageTerm type="text" authority="iso639-2b">English</languageTerm>
 </languageOfCataloging></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="catalog">II.C.19.ii</identifier>
 <identifier type="pid">galston_681</identifier>
 <titleInfo supplied="yes"><title>Verso, studio portrait of Gottfried Galston by Eugene Smith, 1912</title></titleInfo>
@@ -388,8 +379,7 @@
 <languageTerm type="text" authority="iso639-2b">English</languageTerm>
 </languageOfCataloging></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="catalog">II.C.19.iii</identifier>
 <identifier type="pid">galston_682</identifier>
 <titleInfo supplied="yes"><title>Portrait of Gottfried Galston during WWI</title></titleInfo>
@@ -427,8 +417,7 @@
 <languageTerm type="text" authority="iso639-2b">English</languageTerm>
 </languageOfCataloging></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="catalog">II.C.19.iii</identifier>
 <identifier type="pid">galston_683</identifier>
 <titleInfo supplied="yes"><title>Verso, portrait of Gottfried Galston during WWI</title></titleInfo>
@@ -466,8 +455,7 @@
 <languageTerm type="text" authority="iso639-2b">English</languageTerm>
 </languageOfCataloging></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="catalog">II.C.19.iv</identifier>
 <identifier type="pid">galston_684</identifier>
 <titleInfo supplied="yes"><title>Studio portrait of Gottfried Galston by Eduard Wasow, 1920</title></titleInfo>
@@ -505,8 +493,7 @@
 <languageTerm type="text" authority="iso639-2b">English</languageTerm>
 </languageOfCataloging></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/mark/1.0/">Public Domain Mark 1.0</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="catalog">II.C.19.iv</identifier>
 <identifier type="pid">galston_685</identifier>
 <titleInfo supplied="yes"><title>Verso, studio portrait of Gottfried Galston by Eduard Wasow, 1920</title></titleInfo>
@@ -544,8 +531,7 @@
 <languageTerm type="text" authority="iso639-2b">English</languageTerm>
 </languageOfCataloging></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/mark/1.0/">Public Domain Mark 1.0</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="catalog">II.C.19.v</identifier>
 <identifier type="pid">galston_686</identifier>
 <titleInfo supplied="yes"><title>Studio portrait of Gottfried Galston by Wanda von Debschitz-Kunowski, 1924</title></titleInfo>
@@ -583,8 +569,7 @@
 <languageTerm type="text" authority="iso639-2b">English</languageTerm>
 </languageOfCataloging></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/mark/1.0/">Public Domain Mark 1.0</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="catalog">II.C.19.v</identifier>
 <identifier type="pid">galston_687</identifier>
 <titleInfo supplied="yes"><title>Verso, studio portrait of Gottfried Galston by Wanda von Debschitz-Kunowski, 1924</title></titleInfo>
@@ -622,8 +607,7 @@
 <languageTerm type="text" authority="iso639-2b">English</languageTerm>
 </languageOfCataloging></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/mark/1.0/">Public Domain Mark 1.0</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="catalog">II.C.19.vi</identifier>
 <identifier type="pid">galston_688</identifier>
 <titleInfo supplied="yes"><title>Studio portrait of Gottfried Galston by Alexander Piaget</title></titleInfo>
@@ -661,12 +645,11 @@
 <languageTerm type="text" authority="iso639-2b">English</languageTerm>
 </languageOfCataloging></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="catalog">II.C.19.vi</identifier>
 <identifier type="pid">galston_689</identifier>
 <titleInfo supplied="yes"><title>Verso, studio portrait of Gottfried Galston by Alexander Piaget</title></titleInfo>
-<abstract>The verso of the portrait of Glaston. "1938" is handwritten and stamped text reads "a photography by Alexander Piaget, Saint Louis."</abstract>
+<abstract>The verso of the portrait of Glaston. "1938" is handwritten and stamped text reads "a photograph by Alexander Piaget, Saint Louis."</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
 
 </physicalDescription>
@@ -700,8 +683,7 @@
 <languageTerm type="text" authority="iso639-2b">English</languageTerm>
 </languageOfCataloging></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="catalog">II.C.20.xii</identifier>
 <identifier type="pid">galston_690</identifier>
 <titleInfo supplied="yes"><title>Snapshot of Gottfried and Helen Galston in Yosemite</title></titleInfo>
@@ -739,12 +721,11 @@
 <languageTerm type="text" authority="iso639-2b">English</languageTerm>
 </languageOfCataloging></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/mark/1.0/">Public Domain Mark 1.0</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="catalog">II.C.20.xii</identifier>
 <identifier type="pid">galston_691</identifier>
 <titleInfo supplied="yes"><title>Verso, snapshot of Gottfried and Helen Galston Tibbe in Yosemite</title></titleInfo>
-<abstract>The verso the Yosemite snapshot of Gottfried Galston and his wife Helen. The inscription on the back of the photograph reads "Yosemite, Calif 1941 - Sitting on the John Muir bench in the meadows. GG keeps his eye on the camera w/ timer, + HG gazes at Yosemite Falls."</abstract>
+<abstract>The verso of the Yosemite snapshot of Gottfried Galston and his wife Helen. The inscription on the back of the photograph reads "Yosemite, Calif 1941 - Sitting on the John Muir bench in the meadows. GG keeps his eye on the camera w/ timer, + HG gazes at Yosemite Falls."</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
 
 </physicalDescription>
@@ -778,8 +759,7 @@
 <languageTerm type="text" authority="iso639-2b">English</languageTerm>
 </languageOfCataloging></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/mark/1.0/">Public Domain Mark 1.0</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="catalog">II.C.35</identifier>
 <identifier type="pid">galston_692</identifier>
 <titleInfo supplied="yes"><title>Postcard of Gottfried Galston and Artur Schnabel</title></titleInfo>
@@ -817,8 +797,7 @@
 <languageTerm type="text" authority="iso639-2b">English</languageTerm>
 </languageOfCataloging></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/mark/1.0/">Public Domain Mark 1.0</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="catalog">II.C.35</identifier>
 <identifier type="pid">galston_693</identifier>
 <titleInfo supplied="yes"><title>Verso, postcard of Gottfried Galston and Artur Schnabel</title></titleInfo>
@@ -856,8 +835,7 @@
 <languageTerm type="text" authority="iso639-2b">English</languageTerm>
 </languageOfCataloging></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/mark/1.0/">Public Domain Mark 1.0</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="catalog">II.C.40</identifier>
 <identifier type="pid">galston_694</identifier>
 <titleInfo supplied="yes"><title>Photograph of Gottfried Galston in the Wilcox &amp; White recording studio</title></titleInfo>
@@ -895,8 +873,7 @@
 <languageTerm type="text" authority="iso639-2b">English</languageTerm>
 </languageOfCataloging></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="catalog">II.C.40</identifier>
 <identifier type="pid">galston_695</identifier>
 <titleInfo supplied="yes"><title>Verso, photograph of Gottfried Galston in the Wilcox &amp; White recording studio</title></titleInfo>
@@ -934,12 +911,11 @@
 <languageTerm type="text" authority="iso639-2b">English</languageTerm>
 </languageOfCataloging></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="catalog">G.4.a.1</identifier>
 <identifier type="pid">galston_696</identifier>
 <titleInfo supplied="yes"><title>Sketch of Gottfried Galston performing at a concert</title></titleInfo>
-<abstract>This sketch depicts Galston before a concert performance on April 2, 1908. Inscribed is the text "Avant le Concert le 2. Avril 08." In the background is a man with a mustache holding a money bag with the name "Dandelot" written above his head. This is likely Arthur Dandelot, a French music critic.</abstract>
+<abstract>This sketch depicts Galston before a concert performance on April 2, 1908. Inscribed is the text "Avant le Concert le 2. Avril 08." In the background is a man with a mustache holding a money bag with the name "Dandelot" written above his head. This is likely Arthur Dandelot, a French music critic and and artist's agent.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300015617">sketches</form>
 
 </physicalDescription>
@@ -973,8 +949,7 @@
 <languageTerm type="text" authority="iso639-2b">English</languageTerm>
 </languageOfCataloging></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="catalog">G.4.e.2</identifier>
 <identifier type="pid">galston_697</identifier>
 <titleInfo supplied="yes"><title>Portrait of Gottfried Galston</title></titleInfo>
@@ -1012,8 +987,7 @@
 <languageTerm type="text" authority="iso639-2b">English</languageTerm>
 </languageOfCataloging></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="catalog">G.4.e.3</identifier>
 <identifier type="pid">galston_698</identifier>
 <titleInfo supplied="yes"><title>Pencil sketch of Gottfried Galston by Felix Meseck</title></titleInfo>
@@ -1051,8 +1025,7 @@
 <languageTerm type="text" authority="iso639-2b">English</languageTerm>
 </languageOfCataloging></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="catalog">G.4.e.3</identifier>
 <identifier type="pid">galston_699</identifier>
 <titleInfo supplied="yes"><title>Verso, pencil sketch of Gottfried Galston by Felix Meseck</title></titleInfo>
@@ -1090,8 +1063,7 @@
 <languageTerm type="text" authority="iso639-2b">English</languageTerm>
 </languageOfCataloging></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="catalog">G.4.g.1</identifier>
 <identifier type="pid">galston_700</identifier>
 <titleInfo supplied="yes"><title>Lithograph made for posters for Gottfried Galston's Paris concerts</title></titleInfo>
@@ -1129,12 +1101,11 @@
 <languageTerm type="text" authority="iso639-2b">English</languageTerm>
 </languageOfCataloging></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/mark/1.0/">Public Domain Mark 1.0</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="catalog">G.4.g.3</identifier>
 <identifier type="pid">galston_701</identifier>
 <titleInfo supplied="yes"><title>Sketch of Gottfried Galston at the piano</title></titleInfo>
-<abstract>Sketch depicting Galston at the piano with female figures wearing hats roughly rendered in the background. The work includes the inscription "à Gottfried Galston, avec tote mes excuses." This note from the artist Veber apologizes to Galston in case the caricature is seen as unflattering.</abstract>
+<abstract>Sketch depicting Galston at the piano with female figures wearing hats roughly rendered in the background. The work includes the inscription "à Gottfried Galston, avec toute[s] mes excuses." This note from the artist Veber apologizes to Galston in case the caricature is seen as unflattering.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300015617">sketches</form>
 
 </physicalDescription>
@@ -1168,8 +1139,7 @@
 <languageTerm type="text" authority="iso639-2b">English</languageTerm>
 </languageOfCataloging></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/mark/1.0/">Public Domain Mark 1.0</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="catalog">G.4.g.3</identifier>
 <identifier type="pid">galston_702</identifier>
 <titleInfo supplied="yes"><title>Verso, sketch of Gottfried Galston at the piano</title></titleInfo>
@@ -1207,8 +1177,7 @@
 <languageTerm type="text" authority="iso639-2b">English</languageTerm>
 </languageOfCataloging></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/mark/1.0/">Public Domain Mark 1.0</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 
 <identifier type="pid">galston_703</identifier>
 <titleInfo supplied="yes"><title>Postcard from Leopold Godowsky to Gottfried Galston, May 30, 1908</title></titleInfo>
@@ -1246,12 +1215,11 @@
 <languageTerm type="text" authority="iso639-2b">English</languageTerm>
 </languageOfCataloging></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 
 <identifier type="pid">galston_704</identifier>
 <titleInfo supplied="yes"><title>Postcard message from Leopold Godowsky to Gottfried Galston, May 30, 1908</title></titleInfo>
-<abstract>A postcard sent to Galston while he lived in Berlin from pianist Leopold Godowsky. The postcard is written on Galston's own stationery, with his name and address printed on it. The note was glued to an interleaving page in the Chopin section of the Studienbuch, and concerns Godowsky's own interpretation of Chopin's études. The postmark date is May 30, 1908.</abstract>
+<abstract>A postcard sent to Galston while he lived in Berlin from pianist Leopold Godowsky. The postcard is written on Galston's own stationery, with his name and address printed on it. The note was glued to an interleaving page in the Chopin section of the Studienbuch, and concerns Godowsky's own interpretation of Chopin's études.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</form>
 
 </physicalDescription>
@@ -1285,8 +1253,7 @@
 <languageTerm type="text" authority="iso639-2b">English</languageTerm>
 </languageOfCataloging></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 
 <identifier type="pid">galston_711</identifier>
 <titleInfo supplied="yes"><title>Studienbuch note on Busoni's analysis of Beethoven's Opus 106</title></titleInfo>
@@ -1324,24 +1291,23 @@
 <languageTerm type="text" authority="iso639-2b">English</languageTerm>
 </languageOfCataloging></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
-</mods>
-<mods>
+</mods><mods>
 <identifier type="catalog">II.C.11</identifier>
 <identifier type="pid">galston_716</identifier>
-<titleInfo supplied="yes"><title>Photograph of Sandra Droucker Galston, Gottfried Galston, Ferruccio Busoni, and Gerda Busoni, 1913</title></titleInfo>
-<abstract>Photograph taken by Chaliapin of following his performance in "Barber of Seville" in Russia. Gottfried Galston and his wife Sandra as well as Ferruccio Busoni and his wife Gerda are present. Gerda holds a dog in her lap and wine bottles are on the table.</abstract>
+<titleInfo supplied="yes"><title>Photograph of Gerda Busoni, Gottfried Galston, Ferruccio Busoni, and Sandra Droucker Galston</title></titleInfo>
+<abstract>Photograph of Gerda Busoni, Gottfried Galston, Ferruccio Busoni, and Sandra Droucker Galston. Sandra holds a dog in her lap and wine bottles are on the table.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
 
 </physicalDescription>
-<name valueURI="http://id.loc.gov/authorities/names/n50002543" authority="naf"><namePart>Chaliapin, Fyodor Ivanovich, 1873-1938</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm></role></name>
+
 
 
 
 
 <originInfo>
-<place><placeTerm valueURI="http://sws.geonames.org/2017370">Russia</placeTerm></place>
-<dateCreated>1913</dateCreated><dateCreated encoding="edtf">1913</dateCreated>
 
+
+<dateCreated qualifier="approximate">1910-1918</dateCreated><dateCreated encoding="edtf" qualifier="approximate" point="start">1910</dateCreated><dateCreated encoding="edtf" qualifier="approximate" point="end">1918</dateCreated>
 </originInfo>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85044107"><topic>Entertaining</topic></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85105203"><topic>Portraits, Group</topic></subject>
@@ -1351,7 +1317,7 @@
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/no2009163749"><name><namePart>Droucker, Sandra, 1876-1944</namePart></name></subject>
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79124601"><name><namePart>Busoni, Ferruccio, 1866-1924</namePart></name></subject>
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/no96036698"><name><namePart>Busoni, Gerda, 1862-1956</namePart></name></subject>
-<subject authority="geonames" valueURI="http://sws.geonames.org/2017370"><geographic>Russia</geographic><cartographics><coordinates>60, 100</coordinates></cartographics></subject>
+
 <typeOfResource>still image</typeOfResource>
 
 <language><languageTerm authority="iso639-2b" type="text">No linguistic content</languageTerm></language>
@@ -1362,13 +1328,12 @@
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging>
 <languageTerm type="text" authority="iso639-2b">English</languageTerm>
 </languageOfCataloging></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/mark/1.0/">Public Domain Mark 1.0</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+</mods><mods>
 <identifier type="catalog">II.C.11</identifier>
 <identifier type="pid">galston_717</identifier>
-<titleInfo supplied="yes"><title>Verso, photograph of Sandra Droucker Galston, Gottfried Galston, Ferruccio Busoni, and Gerda Busoni, 1913</title></titleInfo>
-<abstract>The reverse side of the photograph includes the inscription "L to R: Sandra Droucker Galston, Gottfried Galston, Ferruccio Busoni, Gerda Busoni." Also present in the top-right-hand corner is an identifier from the catalog "The Gottfried Galston Music Collection and the Galston-Busoni Archive" by Pauline Shaw Bayne.</abstract>
+<titleInfo supplied="yes"><title>Verso, photograph of Gerda Busoni, Gottfried Galston, Ferruccio Busoni, and Sandra Droucker Galston</title></titleInfo>
+<abstract>The reverse side of the photograph includes the inscription "L to R: Sandra Droucker Galston, Gottfried Galston, Ferruccio Busoni, Gerda Busoni." Note that this inscription is incorrect. The correct order is Gerda Busoni, Gottfried Galston, Ferruccio Busoni, and Sandra Droucker Galston. Also present in the top-right-hand corner is an identifier from the catalog "The Gottfried Galston Music Collection and the Galston-Busoni Archive" by Pauline Shaw Bayne.</abstract>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
 
 </physicalDescription>
@@ -1378,9 +1343,9 @@
 
 
 <originInfo>
-<place><placeTerm valueURI="http://sws.geonames.org/2017370">Russia</placeTerm></place>
-<dateCreated>1913</dateCreated><dateCreated encoding="edtf">1913</dateCreated>
 
+
+<dateCreated qualifier="approximate">1910-1918</dateCreated><dateCreated encoding="edtf" qualifier="approximate" point="start">1910</dateCreated><dateCreated encoding="edtf" qualifier="approximate" point="end">1918</dateCreated>
 </originInfo>
 
 
@@ -1390,7 +1355,7 @@
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/no2009163749"><name><namePart>Droucker, Sandra, 1876-1944</namePart></name></subject>
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79124601"><name><namePart>Busoni, Ferruccio, 1866-1924</namePart></name></subject>
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/no96036698"><name><namePart>Busoni, Gerda, 1862-1956</namePart></name></subject>
-<subject authority="geonames" valueURI="http://sws.geonames.org/2017370"><geographic>Russia</geographic><cartographics><coordinates>60, 100</coordinates></cartographics></subject>
+
 <typeOfResource>still image</typeOfResource>
 
 <language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
@@ -1401,9 +1366,8 @@
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging>
 <languageTerm type="text" authority="iso639-2b">English</languageTerm>
 </languageOfCataloging></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/mark/1.0/">Public Domain Mark 1.0</accessCondition>
-</mods>
-<mods>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+</mods><mods>
 <identifier type="catalog">II.G.1</identifier>
 <identifier type="pid">galston_718</identifier>
 <titleInfo supplied="yes"><title>Plaster casts of Ferruccio Busoni's and Gottfried Galston's right hands</title></titleInfo>
