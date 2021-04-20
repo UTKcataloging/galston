@@ -8,7 +8,7 @@
    <titleInfo supplied="yes">
       <title>Group portrait of Gottfried Galston and Mr. Pickman</title>
    </titleInfo>
-   <abstract>Photograph taken in Odessa, Ukraine and published by V. Goldstein based in Feodosia. Includes inscription and decorative imprinted floral mat. The inscription in the lower right hand corner states "To an actor of genius, a wonderful man, and a good friend, Gottfried Gallstone from his truly Isay Pikman, February 1, 1912, Feodosia, Crimea."</abstract>
+   <abstract>Photograph taken in Feodosia by V. Goldstein. Includes inscription and decorative imprinted floral mat. The inscription in the lower right hand corner states "To an actor of genius, a wonderful man, and a good friend, Gottfried Gallstone from his truly Isay Pikman, February 1, 1912, Feodosia, Crimea."</abstract>
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
    </physicalDescription>
@@ -21,7 +21,7 @@
    </name>
    <originInfo>
       <place>
-         <placeTerm valueURI="http://sws.geonames.org/698740">Odessa</placeTerm>
+         <placeTerm valueURI="http://sws.geonames.org/709161">Feodosiya</placeTerm>
       </place>
       <dateCreated>1912</dateCreated>
       <dateCreated encoding="edtf">1912</dateCreated>
@@ -40,10 +40,10 @@
          <namePart>Galston, Gottfried, 1879-1950</namePart>
       </name>
    </subject>
-   <subject authority="geonames" valueURI="http://sws.geonames.org/698740">
-      <geographic>Odessa</geographic>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/709161">
+      <geographic>Feodosiya</geographic>
       <cartographics>
-         <coordinates>46.48572, 30.74383</coordinates>
+         <coordinates>45.03199, 35.38153</coordinates>
       </cartographics>
    </subject>
    <typeOfResource>still image</typeOfResource>
@@ -57,7 +57,7 @@
    </relatedItem>
    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
-         <title>Gottfried Galston Music Collection and The Galston-Busoni Archive</title>
+         <title>Gottfried Galston Music Collection and the Galston-Busoni Archive</title>
       </titleInfo>
       <identifier>MS-1072</identifier>
    </relatedItem>
