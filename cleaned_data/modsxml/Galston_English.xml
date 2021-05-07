@@ -28,6 +28,7 @@
     </originInfo>
     <physicalDescription>
         <form authority="aat" valueURI="http://vocab.getty.edu/aat/300028051">books</form>
+        <extent>211 pages</extent>
     </physicalDescription>
     <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85088762">
         <topic>Music</topic>
