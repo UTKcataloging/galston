@@ -14,8 +14,8 @@
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
    </physicalDescription>
    <originInfo>
-      <dateCreated qualifier="approximate">1910-1918</dateCreated>
-      <dateCreated encoding="edtf" qualifier="approximate" point="start">1910</dateCreated>
+      <dateCreated qualifier="approximate">1905-1918</dateCreated>
+      <dateCreated encoding="edtf" qualifier="approximate" point="start">1905</dateCreated>
       <dateCreated encoding="edtf" qualifier="approximate" point="end">1918</dateCreated>
    </originInfo>
    <subject authority="lcsh"
