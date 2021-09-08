@@ -7,7 +7,7 @@
    <identifier type="catalog">II.C.20.xii</identifier>
    <identifier type="pid">galston_691</identifier>
    <titleInfo supplied="yes">
-      <title>Verso, snapshot of Gottfried and Helen Galston in Yosemite</title>
+      <title>Verso, snapshot of Gottfried and Helen Galston Tibbe in Yosemite</title>
    </titleInfo>
    <abstract>The verso of the Yosemite snapshot of Gottfried Galston and his wife Helen. The inscription on the back of the photograph reads "Yosemite, Calif 1941 - Sitting on the John Muir bench in the meadows. GG keeps his eye on the camera w/ timer, + HG gazes at Yosemite Falls."</abstract>
    <physicalDescription>
@@ -51,5 +51,5 @@
       </languageOfCataloging>
    </recordInfo>
    <accessCondition type="use and reproduction"
-                    xlink:href="https://creativecommons.org/publicdomain/mark/1.0/">Public Domain Mark 1.0</accessCondition>
+                    xlink:href="http://rightsstatements.org/vocab/NKC/1.0/">No Known Copyright</accessCondition>
 </mods>

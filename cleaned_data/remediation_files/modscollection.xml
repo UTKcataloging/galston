@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"><mods>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+<mods>
 <identifier type="catalog">II.C.10</identifier>
 <identifier type="pid">galston_678</identifier>
 <titleInfo supplied="yes"><title>Photograph of Ferruccio Busoni</title></titleInfo>
@@ -36,7 +37,7 @@
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging>
 <languageTerm type="text" authority="iso639-2b">English</languageTerm>
 </languageOfCataloging></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/mark/1.0/">Public Domain Mark 1.0</accessCondition>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NKC/1.0/">No Known Copyright</accessCondition>
 </mods><mods>
 <identifier type="catalog">II.C.10</identifier>
 <identifier type="pid">galston_705</identifier>
@@ -74,7 +75,7 @@
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging>
 <languageTerm type="text" authority="iso639-2b">English</languageTerm>
 </languageOfCataloging></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/mark/1.0/">Public Domain Mark 1.0</accessCondition>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NKC/1.0/">No Known Copyright</accessCondition>
 </mods><mods>
 <identifier type="catalog">II.C.15</identifier>
 <identifier type="pid">galston_706</identifier>
@@ -112,7 +113,7 @@
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging>
 <languageTerm type="text" authority="iso639-2b">English</languageTerm>
 </languageOfCataloging></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/mark/1.0/">Public Domain Mark 1.0</accessCondition>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NKC/1.0/">No Known Copyright</accessCondition>
 </mods><mods>
 <identifier type="catalog">II.C.15</identifier>
 <identifier type="pid">galston_707</identifier>
@@ -150,7 +151,7 @@
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging>
 <languageTerm type="text" authority="iso639-2b">English</languageTerm>
 </languageOfCataloging></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/mark/1.0/">Public Domain Mark 1.0</accessCondition>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NKC/1.0/">No Known Copyright</accessCondition>
 </mods><mods>
 <identifier type="catalog">II.C.18</identifier>
 <identifier type="pid">galston_708</identifier>
@@ -264,7 +265,7 @@
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging>
 <languageTerm type="text" authority="iso639-2b">English</languageTerm>
 </languageOfCataloging></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/mark/1.0/">Public Domain Mark 1.0</accessCondition>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NKC/1.0/">No Known Copyright</accessCondition>
 </mods><mods>
 <identifier type="catalog">II.C.19.i</identifier>
 <identifier type="pid">galston_679</identifier>
@@ -302,7 +303,7 @@
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging>
 <languageTerm type="text" authority="iso639-2b">English</languageTerm>
 </languageOfCataloging></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/mark/1.0/">Public Domain Mark 1.0</accessCondition>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NKC/1.0/">No Known Copyright</accessCondition>
 </mods><mods>
 <identifier type="catalog">II.C.19.ii</identifier>
 <identifier type="pid">galston_680</identifier>
@@ -492,7 +493,7 @@
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging>
 <languageTerm type="text" authority="iso639-2b">English</languageTerm>
 </languageOfCataloging></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/mark/1.0/">Public Domain Mark 1.0</accessCondition>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NKC/1.0/">No Known Copyright</accessCondition>
 </mods><mods>
 <identifier type="catalog">II.C.19.iv</identifier>
 <identifier type="pid">galston_685</identifier>
@@ -530,7 +531,7 @@
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging>
 <languageTerm type="text" authority="iso639-2b">English</languageTerm>
 </languageOfCataloging></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/mark/1.0/">Public Domain Mark 1.0</accessCondition>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NKC/1.0/">No Known Copyright</accessCondition>
 </mods><mods>
 <identifier type="catalog">II.C.19.v</identifier>
 <identifier type="pid">galston_686</identifier>
@@ -568,7 +569,7 @@
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging>
 <languageTerm type="text" authority="iso639-2b">English</languageTerm>
 </languageOfCataloging></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/mark/1.0/">Public Domain Mark 1.0</accessCondition>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NKC/1.0/">No Known Copyright</accessCondition>
 </mods><mods>
 <identifier type="catalog">II.C.19.v</identifier>
 <identifier type="pid">galston_687</identifier>
@@ -606,7 +607,7 @@
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging>
 <languageTerm type="text" authority="iso639-2b">English</languageTerm>
 </languageOfCataloging></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/mark/1.0/">Public Domain Mark 1.0</accessCondition>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NKC/1.0/">No Known Copyright</accessCondition>
 </mods><mods>
 <identifier type="catalog">II.C.19.vi</identifier>
 <identifier type="pid">galston_688</identifier>
@@ -720,7 +721,7 @@
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging>
 <languageTerm type="text" authority="iso639-2b">English</languageTerm>
 </languageOfCataloging></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/mark/1.0/">Public Domain Mark 1.0</accessCondition>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NKC/1.0/">No Known Copyright</accessCondition>
 </mods><mods>
 <identifier type="catalog">II.C.20.xii</identifier>
 <identifier type="pid">galston_691</identifier>
@@ -758,7 +759,7 @@
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging>
 <languageTerm type="text" authority="iso639-2b">English</languageTerm>
 </languageOfCataloging></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/mark/1.0/">Public Domain Mark 1.0</accessCondition>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NKC/1.0/">No Known Copyright</accessCondition>
 </mods><mods>
 <identifier type="catalog">II.C.35</identifier>
 <identifier type="pid">galston_692</identifier>
@@ -796,7 +797,7 @@
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging>
 <languageTerm type="text" authority="iso639-2b">English</languageTerm>
 </languageOfCataloging></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/mark/1.0/">Public Domain Mark 1.0</accessCondition>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NKC/1.0/">No Known Copyright</accessCondition>
 </mods><mods>
 <identifier type="catalog">II.C.35</identifier>
 <identifier type="pid">galston_693</identifier>
@@ -834,7 +835,7 @@
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging>
 <languageTerm type="text" authority="iso639-2b">English</languageTerm>
 </languageOfCataloging></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/mark/1.0/">Public Domain Mark 1.0</accessCondition>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NKC/1.0/">No Known Copyright</accessCondition>
 </mods><mods>
 <identifier type="catalog">II.C.40</identifier>
 <identifier type="pid">galston_694</identifier>
@@ -1100,7 +1101,7 @@
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging>
 <languageTerm type="text" authority="iso639-2b">English</languageTerm>
 </languageOfCataloging></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/mark/1.0/">Public Domain Mark 1.0</accessCondition>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NKC/1.0/">No Known Copyright</accessCondition>
 </mods><mods>
 <identifier type="catalog">G.4.g.3</identifier>
 <identifier type="pid">galston_701</identifier>
@@ -1138,7 +1139,7 @@
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging>
 <languageTerm type="text" authority="iso639-2b">English</languageTerm>
 </languageOfCataloging></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/mark/1.0/">Public Domain Mark 1.0</accessCondition>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NKC/1.0/">No Known Copyright</accessCondition>
 </mods><mods>
 <identifier type="catalog">G.4.g.3</identifier>
 <identifier type="pid">galston_702</identifier>
@@ -1176,7 +1177,7 @@
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging>
 <languageTerm type="text" authority="iso639-2b">English</languageTerm>
 </languageOfCataloging></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/publicdomain/mark/1.0/">Public Domain Mark 1.0</accessCondition>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NKC/1.0/">No Known Copyright</accessCondition>
 </mods><mods>
 
 <identifier type="pid">galston_703</identifier>
