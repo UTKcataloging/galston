@@ -1,0 +1,344 @@
+
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="pid">galston_1</identifier>
+  <identifier>II.D.1</identifier>
+  <titleInfo>
+    <title>Programme zum Zyklus von vierzig Konzerten</title>
+  </titleInfo>
+  <titleInfo type="alternative">
+    <title>Programs for a cycle of forty concerts</title>
+  </titleInfo>
+  <abstract>Bound volume containing individual programs from Gottfried Galston&apos;s cycle of 40 historical recitals in Munich, Germany, between 1919 and 1921. Concerts occurred Sundays, typically at 4PM (the final concert was at 7:30PM). The programs assert that the concerts share the entirety of significant piano literature from the beginning to the present.</abstract>
+  <tableOfContents>Programm des ersten Vortrages (1. Zyklus ): Sonntag, 12. Oktober 1919  -- Programm des zweiten Vortrages (Zyklus I): Sonntag, 19. Oktober 1919 -- Programm des dritten Vortrages (Zyklus I): Sonntag, 26. Oktober 1919 -- 
+        Programm des vierten Vortrages (Zyklus I) -- Programm des fünften Vortrages (Zyklus I): Sonntag, 9. November 1919 -- Programm des sechsten Vortrages (Zyklus I): Sonntag, 16. November 1919 -- 
+        Programm des siebenten Vortrages (Zyklus I): Sonntag, 23. November 1919 -- Programm des achten Vortrages (Zyklus I): Sonntag, 30. November 1919 -- Programm des neunten Vortrages (Zyklus I): Sonntag, 7. December 1919 -- 
+        Programm des zehnten Vortrages (Zyklus I): Sonntag, 14. December 1919 -- Programm des ersten Vortrages (Zyklus II): Sonntag, 4. Januar 1920 -- Programm des zweiten Vortrages (Zyklus II): Sonntag, 11. Januar 1920 -- 
+        Programm des dritten Vortrages (Zyklus II): Sonntag, 18. Januar 1920 -- Programm des vierten Vortrages (Zyklus II): Sonntag, 25. Januar 1920 -- Programm des fünften Vortrages (Zyklus II): Sonntag, 1. Februar 1920 -- 
+        Programm des sechsten Vortrages (Zyklus II): Sonntag, 8. Februar 1920 -- Programm des siebenten Vortrages (Zyklus II): Sonntag, 15. Februar 1920 -- Programm des achten Vortrages (Zyklus II): Sonntag, 22. Februar 1920 --
+        Programm des neunten Vortrages (Zyklus II): Sonntag, 29. Februar 1920 -- Programm des zehnten Vortrages (Zyklus II): Sonntag, 7. Marz 1920 -- Programm des ersten Vortrages (Zyklus III): Sonntag, 14. Marz 1920 -- 
+        Programm des zweiten Vortrages (Zyklus III): Sonntag, 21. Marz 1920 -- Programm des dritten Vortrages (Zyklus III): Sonntag, 28. Marz 1920 -- Programm des vierten Vortrages (Zyklus III): Sonntag, 4. April 1920 --
+        Programm des fünften Vortrages (Zyklus III): Sonntag, 11. April 1920 -- Programm des sechsten Vortrages (Zyklus III): Sonntag, 18. April 1920 -- Programm des siebenten Vortrages (Zyklus III): Sonntag, 25. April 1920 --
+        Programm des achten Vortrages (Zyklus III): Sonntag, 2. Mai 1920 -- Programm des neunten Vortrages (Zyklus III): Sonntag, 9. Mai 1920 -- Programm des zehnten (letzten) Vortrages (Zyklus III): Sonntag, 16. Mai 1920 --
+        Programm des ersten Vortrages (Zyklus IV) (31. Konzert): Sonntag, 12. September 1920 -- Programm des zweiten Vortrages (Zyklus IV) (32. Konzert): Sonntag, 26. September 1920 -- Programm des dritten Vortrages (Zyklus IV) (33. Konzert): Sonntag, 10. Oktober 1920 --
+        Programm des fünften Vortrages (Zyklus IV) (35. Konzert): Sonntag, 21. November 1920 -- Programm des sechsten Vortrages (Zyklus IV) (36. Konzert): Sonntag, 5. Dezember 1920 -- Programm des siebenten Vortrages (Zyklus IV) (37. Konzert): Sonntag, 16. Januar 1921 --
+        Programm des achten Vortrages (Zyklus IV) (38. Konzert): Sonntag, 30. Januar 1921 -- Programm des neunten Vortrages (Zyklus IV) (39. Konzert): Sonntag, 13. Februar 1921 -- Programm des 40 (Letzen) Konzerts: Sonntag, 20. Februar 1921, 7 1/2 Uhr pünktlich
+    </tableOfContents>
+  <originInfo>
+    <dateIssued>October 12, 1919-February 20, 1921</dateIssued>
+    <dateIssued encoding="edtf" point="start">1919-10-12</dateIssued>
+    <dateIssued encoding="edtf" point="end">1921-02-20</dateIssued>
+    <place>
+      <placeTerm valueURI="http://sws.geonames.org/2867714">Munich</placeTerm>
+    </place>
+  </originInfo>
+  <physicalDescription>
+    <extent>176 pages</extent>
+    <form authority="aat" valueURI="http://vocab.getty.edu/aat/300028051">books</form>
+    <form authority="aat" valueURI="http://vocab.getty.edu/aat/300395494">concert programs</form>
+  </physicalDescription>
+  <note>Includes Gottfried Galston&apos;s bookplate on front inside cover.</note>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85088762">
+    <topic>Music</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85101782">
+    <topic>Piano music</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85030622">
+    <topic>Concert programs</topic>
+  </subject>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85019644">
+    <topic>Musical canon</topic>
+  </subject>
+  <subject>
+    <name authority="naf" valueURI="http://id.loc.gov/authorities/names/n79011997">
+      <namePart>Galston, Gottfried, 1879-1950</namePart>
+    </name>
+  </subject>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79107741">
+    <name>
+      <namePart>Beethoven, Ludwig van, 1770-1827</namePart>
+    </name>
+  </subject>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80022788">
+    <name>
+      <namePart>Mozart, Wolfgang Amadeus, 1756-1791</namePart>
+    </name>
+  </subject>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79091193">
+    <name>
+      <namePart>Haydn, Joseph, 1732-1809</namePart>
+    </name>
+  </subject>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79139515">
+    <name>
+      <namePart>Mendelssohn-Bartholdy, Felix, 1809-1847</namePart>
+    </name>
+  </subject>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79110317">
+    <name>
+      <namePart>Weber, Carl Maria von, 1786-1826</namePart>
+    </name>
+  </subject>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n50000565">
+    <name>
+      <namePart>Schumann, Robert, 1810-1856</namePart>
+    </name>
+  </subject>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79127769">
+    <name>
+      <namePart>Chopin, Frédéric, 1810-1849</namePart>
+    </name>
+  </subject>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79079048">
+    <name>
+      <namePart>Liszt, Franz, 1811-1886</namePart>
+    </name>
+  </subject>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79077221">
+    <name>
+      <namePart>Brahms, Johannes, 1833-1897</namePart>
+    </name>
+  </subject>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79124601">
+    <name>
+      <namePart>Busoni, Ferruccio, 1866-1924</namePart>
+    </name>
+  </subject>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79130762">
+    <name>
+      <namePart>Franck, César, 1822-1890</namePart>
+    </name>
+  </subject>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79130762">
+    <name>
+      <namePart>Franck, César, 1822-1890</namePart>
+    </name>
+  </subject>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n50006539">
+    <name>
+      <namePart>Mattheson, Johann, 1681-1764</namePart>
+    </name>
+  </subject>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79108397">
+    <name>
+      <namePart>Scheidt, Samuel, 1587-1654</namePart>
+    </name>
+  </subject>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79116217">
+    <name>
+      <namePart>Böhm, Georg, 1661-1733</namePart>
+    </name>
+  </subject>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n81014122">
+    <name>
+      <namePart>Buxtehude, Dietrich, 1637-1707</namePart>
+    </name>
+  </subject>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n82043266">
+    <name>
+      <namePart>Fischer, Johann Caspar Ferdinand, 1656-1746</namePart>
+    </name>
+  </subject>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n81097856">
+    <name>
+      <namePart>Rust, Friedrich Wilhelm, 1739-1796</namePart>
+    </name>
+  </subject>
+  <subject>
+    <name>
+      <namePart>Braun, L. v., 1720-1800</namePart>
+    </name>
+  </subject>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n82116359">
+    <name>
+      <namePart>Froberger, Johann Jacob, 1616-1667</namePart>
+    </name>
+  </subject>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n81133929">
+    <name>
+      <namePart>Kuhnau, Johann, 1660-1722</namePart>
+    </name>
+  </subject>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79145903">
+    <name>
+      <namePart>Bach, Wilhelm Friedemann, 1710-1784</namePart>
+    </name>
+  </subject>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79074233">
+    <name>
+      <namePart>Bach, Carl Philipp Emanuel, 1714-1788</namePart>
+    </name>
+  </subject>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80008104">
+    <name>
+      <namePart>Bach, Johann Christian, 1735-1782</namePart>
+    </name>
+  </subject>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n81015265">
+    <name>
+      <namePart>Kirnberger, Johann Philipp, 1721-1783</namePart>
+    </name>
+  </subject>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n81028127">
+    <name>
+      <namePart>Krebs, Johann Ludwig, 1713-1780</namePart>
+    </name>
+  </subject>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79139212">
+    <name>
+      <namePart>Frescobaldi, Girolamo, 1583-1643</namePart>
+    </name>
+  </subject>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80145027">
+    <name>
+      <namePart>Galuppi, Baldassare, 1706-1785</namePart>
+    </name>
+  </subject>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n82099809">
+    <name>
+      <namePart>Paradies, Pietro Domenico, 1707-1791</namePart>
+    </name>
+  </subject>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n50000562">
+    <name>
+      <namePart>Couperin, François, 1668-1733</namePart>
+    </name>
+  </subject>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n81140100">
+    <name>
+      <namePart>Daquin, Louis-Claude, 1694-1772</namePart>
+    </name>
+  </subject>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n50000571">
+    <name>
+      <namePart>Rameau, Jean-Philippe, 1683-1764</namePart>
+    </name>
+  </subject>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79070071">
+    <name>
+      <namePart>Scarlatti, Domenico, 1685-1757</namePart>
+    </name>
+  </subject>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n50000561">
+    <name>
+      <namePart>Schubert, Franz, 1797-1828</namePart>
+    </name>
+  </subject>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n81003169">
+    <name>
+      <namePart>Chausson, Ernest, 1855-1899</namePart>
+    </name>
+  </subject>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79132137">
+    <name>
+      <namePart>Debussy, Claude, 1862-1918</namePart>
+    </name>
+  </subject>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80145026">
+    <name>
+      <namePart>Rubinstein, Anton, 1829-1894</namePart>
+    </name>
+  </subject>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79072979">
+    <name>
+      <namePart>Tchaikovsky, Peter Ilich, 1840-1893</namePart>
+    </name>
+  </subject>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80086161">
+    <name>
+      <namePart>Scriabin, Aleksandr Nikolayevich, 1872-1915</namePart>
+    </name>
+  </subject>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n50041167">
+    <name>
+      <namePart>Balakirev, Miliĭ Alekseevich, 1837-1910</namePart>
+    </name>
+  </subject>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79108398">
+    <name>
+      <namePart>Reger, Max, 1873-1916</namePart>
+    </name>
+  </subject>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80032780">
+    <name>
+      <namePart>Schoenberg, Arnold, 1874-1951</namePart>
+    </name>
+  </subject>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/no2008177635">
+    <name>
+      <namePart>Kallenberg, Siegfried Garibaldi, 1867-1944</namePart>
+    </name>
+  </subject>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109330">
+    <name>
+      <namePart>Bartók, Béla, 1881-1945</namePart>
+    </name>
+  </subject>
+  <subject>
+    <name>
+      <namePart>Harburger, W.</namePart>
+    </name>
+  </subject>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n82012130">
+    <name>
+      <namePart>Weismann, Julius, 1879-1950</namePart>
+    </name>
+  </subject>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n86143580">
+    <name>
+      <namePart>Niemann, Walter, 1876-1953</namePart>
+    </name>
+  </subject>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n82044526">
+    <name>
+      <namePart>Albert, Eugen d&apos;, 1864-1932</namePart>
+    </name>
+  </subject>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n84123365">
+    <name>
+      <namePart>Scott, Cyril, 1879-1970</namePart>
+    </name>
+  </subject>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79108396">
+    <name>
+      <namePart>Ravel, Maurice, 1875-1937</namePart>
+    </name>
+  </subject>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n83017365">
+    <name>
+      <namePart>Nielsen, Carl, 1865-1931</namePart>
+    </name>
+  </subject>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n81139110">
+    <name>
+      <namePart>Alkan, Charles-Valentin, 1813-1888</namePart>
+    </name>
+  </subject>
+  <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80034061">
+    <name>
+      <namePart>Albéniz, Isaac, 1860-1909</namePart>
+    </name>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">German</languageTerm>
+  </language>
+  <typeOfResource>text</typeOfResource>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Galston Studienbuch</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Gottfried Galston Music Collection and the Galston-Busoni Archive</title>
+    </titleInfo>
+    <identifier>MS-1072</identifier>
+  </relatedItem>
+  <location>
+    <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+  </location>
+  <recordInfo>
+    <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+  </recordInfo>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NKC/1.0/">No Known Copyright</accessCondition>
+</mods>

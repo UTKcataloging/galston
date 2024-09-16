@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="catalog">II.C.19.i</identifier>
+   <identifier type="pid">galston_710</identifier>
+   <titleInfo supplied="yes">
+      <title>Photograph of Gottfried Galston at piano</title>
+   </titleInfo>
+   <abstract>Photograph taken of Galston at approximately age 23 by Elliot &amp; Fry. The date is handwritten on the reverse, "ca. 1902", which coincides with concert tours given by Galston in London.</abstract>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+   </physicalDescription>
+   <name valueURI="http://id.loc.gov/authorities/names/n2005054833"
+         authority="naf">
+      <namePart>Elliott &amp; Fry</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <place>
+         <placeTerm valueURI="http://sws.geonames.org/2643743">London</placeTerm>
+      </place>
+      <dateCreated>circa 1902</dateCreated>
+      <dateCreated encoding="edtf"/>
+      <dateCreated qualifier="approximate">1902</dateCreated>
+   </originInfo>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh99001681">
+      <topic>Portraits</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85089027">
+      <topic>Musicians</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85101722">
+      <topic>Piano</topic>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n79011997">
+      <name>
+         <namePart>Galston, Gottfried, 1879-1950</namePart>
+      </name>
+   </subject>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/2643743">
+      <geographic>London</geographic>
+      <cartographics>
+         <coordinates>51.50853, -0.12574</coordinates>
+      </cartographics>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <language>
+      <languageTerm authority="iso639-2b" type="text">No linguistic content</languageTerm>
+   </language>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Gottfried Galston Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Gottfried Galston Music Collection and the Galston-Busoni Archive</title>
+      </titleInfo>
+      <identifier>MS-1072</identifier>
+   </relatedItem>
+   <location>
+      <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+   </location>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/NKC/1.0/">No Known Copyright</accessCondition>
+</mods>

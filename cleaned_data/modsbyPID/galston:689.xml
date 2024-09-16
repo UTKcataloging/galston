@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="catalog">II.C.19.vi</identifier>
+   <identifier type="pid">galston_689</identifier>
+   <titleInfo supplied="yes">
+      <title>Verso, studio portrait of Gottfried Galston by Alexander Piaget</title>
+   </titleInfo>
+   <abstract>The verso of the portrait of Glaston. "1938" is handwritten and stamped text reads "a photograph by Alexander Piaget, Saint Louis."</abstract>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+   </physicalDescription>
+   <originInfo>
+      <place>
+         <placeTerm valueURI="http://sws.geonames.org/4407066">St Louis</placeTerm>
+      </place>
+      <dateCreated>1938</dateCreated>
+      <dateCreated encoding="edtf">1938</dateCreated>
+   </originInfo>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/4407066">
+      <geographic>St Louis</geographic>
+      <cartographics>
+         <coordinates>38.62727, -90.19789</coordinates>
+      </cartographics>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Gottfried Galston Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Gottfried Galston Music Collection and the Galston-Busoni Archive</title>
+      </titleInfo>
+      <identifier>MS-1072</identifier>
+   </relatedItem>
+   <location>
+      <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+   </location>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+</mods>

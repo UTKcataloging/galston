@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="catalog">G.4.e.3</identifier>
+   <identifier type="pid">galston_699</identifier>
+   <titleInfo supplied="yes">
+      <title>Verso, pencil sketch of Gottfried Galston by Felix Meseck</title>
+   </titleInfo>
+   <abstract>The reverse side of the sketch by Meseck includes an identifier in the top-right-hand corner from the catalog "The Gottfried Galston Music Collection and the Galston-Busoni Archive" by Pauline Shaw Bayne.</abstract>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300015617">sketches</form>
+   </physicalDescription>
+   <originInfo>
+      <dateCreated qualifier="approximate">1921-1926</dateCreated>
+      <dateCreated encoding="edtf" qualifier="approximate" point="start">1921</dateCreated>
+      <dateCreated encoding="edtf" qualifier="approximate" point="end">1926</dateCreated>
+   </originInfo>
+   <typeOfResource>still image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Gottfried Galston Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Gottfried Galston Music Collection and the Galston-Busoni Archive</title>
+      </titleInfo>
+      <identifier>MS-1072</identifier>
+   </relatedItem>
+   <location>
+      <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+   </location>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
